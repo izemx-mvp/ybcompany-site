@@ -1,0 +1,4 @@
+{
+  "$comment": "Folder under public/images (and og file name) per page key, when the key itself contains a word ad blockers filter (EasyList). Read by scripts/neutral-paths.mjs and src/lib/seo.ts.",
+  "partenaires-pub": "partenaires-signaletique"
+}

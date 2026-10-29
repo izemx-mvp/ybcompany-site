@@ -1,0 +1,3 @@
+# Public chat endpoint: called from the browser with the publishable key, which is not a JWT.
+[functions.chat]
+verify_jwt = false

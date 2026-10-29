@@ -1,0 +1,50 @@
+{
+ "atelier-couture": {
+  "w": 2752,
+  "h": 1536
+ },
+ "controle-qualite": {
+  "w": 2752,
+  "h": 1536
+ },
+ "design-table": {
+  "w": 2752,
+  "h": 1536
+ },
+ "fabric": {
+  "w": 2816,
+  "h": 1536
+ },
+ "grand-format": {
+  "w": 2752,
+  "h": 1536
+ },
+ "home-hero": {
+  "w": 2752,
+  "h": 1536
+ },
+ "protection": {
+  "w": 2752,
+  "h": 1536
+ },
+ "sacs": {
+  "w": 2752,
+  "h": 1536
+ },
+ "sport-kits": {
+  "w": 2752,
+  "h": 1536
+ },
+ "stand-expo": {
+  "w": 2752,
+  "h": 1536
+ },
+ "streetwear": {
+  "w": 2752,
+  "h": 1536
+ },
+ "sublimation": {
+  "w": 2752,
+  "h": 1536
+ }
+}

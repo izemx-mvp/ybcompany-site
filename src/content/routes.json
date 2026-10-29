@@ -1,0 +1,199 @@
+[
+  {
+    "key": "home",
+    "path": "/",
+    "title": "Page d'accueil - YB Company - société de textile à casablanca",
+    "h1": "société de textile et de publicité par l'objet",
+    "description": "Société de textile et publicité par objet basé à casablanca.Specialisé dans la confection de vêtements casual et sportswear avec impression par sublimation.",
+    "ogType": "website",
+    "ogImage": null,
+    "label": "Accueil",
+    "twitterImage": "https://ybcompany.ma/content/uploads/2021/09/production_de_vetement-1-300x300.png"
+  },
+  {
+    "key": "philosophie",
+    "path": "/nous-connaitre/philosophie/",
+    "title": "Philosophie - YB Company",
+    "h1": "Philosophie",
+    "description": null,
+    "ogImage": null,
+    "label": "Philosophie",
+    "parent": "À PROPOS"
+  },
+  {
+    "key": "business-model",
+    "path": "/nous-connaitre/business-model/",
+    "title": "Business Model - YB Company",
+    "h1": "Business Model",
+    "description": null,
+    "ogImage": null,
+    "label": "Business Model",
+    "parent": "À PROPOS"
+  },
+  {
+    "key": "valeur-ajoutee",
+    "path": "/textile-habillement/notre-valeur-ajoutee/",
+    "title": "Notre valeur ajoutée - YB Company",
+    "h1": "Notre valeur ajoutée",
+    "description": null,
+    "ogImage": null,
+    "label": "Notre valeur ajoutée",
+    "parent": "Textile Habillement"
+  },
+  {
+    "key": "sport-casual",
+    "path": "/textile-habillement/habillement-textile-sport-casual/",
+    "title": "Textile sport et habillement Production de vêtement sportswear -Yb comp",
+    "h1": "société de textile",
+    "description": "sportswear, casual, activewear. Fabricant de textile sport et habillement . Nous sommes spécialisés dans la production des tenues de sport et casual. Nous vous accompagnons dans la création de vêtement personnalisé; tenue de sport, création de maillot de foot,basketball,handball......",
+    "ogImage": "https://ybcompany.ma/content/uploads/2018/01/production-tenue-rugby.jpeg",
+    "label": "Habillement textile sport casual",
+    "parent": "Textile Habillement"
+  },
+  {
+    "key": "mode",
+    "path": "/textile-habillement/habillement-mode/",
+    "title": "Atelier de confection - Mode - Fashion - Yb company",
+    "h1": "société de confection",
+    "description": null,
+    "ogImage": "https://ybcompany.ma/content/uploads/2018/01/production-de-vetement-de-mode-1-300x300.jpg",
+    "label": "Habillement Mode",
+    "parent": "Textile Habillement",
+    "ogDescription": "société de confection MODE – FASHION – streetwear Nous sommes un fabricant de vêtements textiles basé à Casablanca, nos produits sont destinés à l’export mais nous opérons également partout au Maroc (Marrakech, Rabat, Agadir, Tanger..). Dans nos ateliers de confection textile, nous disposons de tous les outils nécessaires de dernière génération, afin de vous accompagner …",
+    "twitterDescription": "société de confection MODE – FASHION – streetwear Nous sommes un fabricant de vêtements textiles basé à Casablanca, nos produits sont destinés à l’export mais nous opérons également partout au Maroc (Marrakech, Rabat, Agadir, Tanger..). Dans nos ateliers de confection textile, nous disposons de tous les outils nécessaires de dernière génération, afin de vous accompagner […]"
+  },
+  {
+    "key": "sublimation",
+    "path": "/textile-habillement/sublimation-textiles/",
+    "title": "Sublimation textiles de maison - impression personnalisé - coussin - Tissu",
+    "h1": "sublimation textile de maison",
+    "description": "Nous vous offrons une large variété de prestations autour de la sublimation Textiles, un large choix de produits est offert : tissus de fauteuils, chaises, canapés, coussin personnalisé, tissus pour couvrir les murs et les plafonds, impression sur tissu, rideaux, impression sur textile",
+    "ogImage": "https://ybcompany.ma/content/uploads/2018/12/fabricant-de-pouf-maroc-150x150.jpg",
+    "label": "Sublimation Textiles de Maison",
+    "parent": "Textile Habillement"
+  },
+  {
+    "key": "grand-format",
+    "path": "/industrie-publicitaire-affiche-publicitaire/impression-grand-format/",
+    "title": "impression grand format sur bâche,vinyle,oneway,papier - Yb company",
+    "h1": "impression grand format",
+    "description": "Nous vous proposons une prestation complète en impression grand format. Impression sur vinyle,oneway, banderoles, bannières, affiches, drapeaux,kakemono...",
+    "ogImage": "https://ybcompany.ma/content/uploads/2018/01/stand-exposition-300x300.jpg",
+    "label": "Impression grand format",
+    "parent": "Affiche publicitaire"
+  },
+  {
+    "key": "amenagements",
+    "path": "/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/",
+    "title": "Aménagements d’espaces - YB Company",
+    "h1": "Aménagements d’espaces",
+    "description": null,
+    "ogImage": null,
+    "label": "Aménagements d’espaces",
+    "parent": "Affiche publicitaire"
+  },
+  {
+    "key": "structures",
+    "path": "/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/",
+    "title": "Affiche publicitaire et structure - plv casablanca - YB company",
+    "h1": "STRUCTURES ET SUPPORTS PUBLICITAIRES",
+    "description": "Yb offre des produits diversifisé tels que : les affiches publicitaires, plv, oriflamme, photocall, banner, beachflag,oriflamme,drapeau,winflag et kakemono",
+    "ogImage": "https://ybcompany.ma/content/uploads/2018/01/beach-flag-yb-company-publicité-300x300.jpg",
+    "label": "Affiche publicitaire et structure",
+    "parent": "Affiche publicitaire"
+  },
+  {
+    "key": "sacherie",
+    "path": "/http-ybcompany-ma-production-de-sac/",
+    "title": "Production de sac - YB Company",
+    "h1": "Production de sac",
+    "description": "Production de sac tnt et sac shopping personnalisés,, avec ou sans impression. Fabricant de sac en polypropylène personnalisable.",
+    "ogImage": null,
+    "label": "SACHERIE"
+  },
+  {
+    "key": "sac-non-tisse",
+    "path": "/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/",
+    "title": "FABRICANT DE SAC NON TISSÉ PUBLICITAIRE - Yb company",
+    "h1": "Production de sac écologique non tissé TNT",
+    "description": "Production de sac non tissé à casablanca, sac personnalisé, production de sac non tissé, production de sac publicitaire. Les sacs non-tissé en polypropylène pourront être personnalisés et prendront la couleur, le format, la finition et l’impression que vous désirez.",
+    "ogImage": "https://ybcompany.ma/content/uploads/2018/01/Production-de-sac-publicitaire.jpg",
+    "label": "Production de sac non tissé",
+    "parent": "SACHERIE"
+  },
+  {
+    "key": "sac-tissu",
+    "path": "/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/",
+    "title": "Producteur de sac publicitaire en tissu - fabricant de sac publicitaire - YbC",
+    "h1": "Production de sac en tissu sublimé",
+    "description": "Producteur de sac publicitaire en tissu sublimé. Fabricant de sac en tissu par excellence. Nous vous proposons des sacs publicitaires en tissu réalisés avec soin pour le plus grand bonheur de vos clients. Un sac en tissu publicitaire 100% personnalisée qui mettra en avant votre notoriété.",
+    "ogImage": "https://ybcompany.ma/content/uploads/2018/01/production-de-sac-entissu-768x768.jpg",
+    "label": "Production de sac en tissu",
+    "parent": "SACHERIE"
+  },
+  {
+    "key": "masques",
+    "path": "/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/",
+    "title": "Masque de protection - YB Company",
+    "h1": "Notre engagement",
+    "description": "Nous fabriquons des masques de protection, bavettes à usage unique ainsi que des masques réutilisables et personnalisables.",
+    "ogImage": "https://ybcompany.ma/content/uploads/2020/04/afc8c507-e008-4903-acc4-2054fec5265f-150x150.jpg",
+    "label": "Masque de protection",
+    "parent": "Covid-19"
+  },
+  {
+    "key": "protection",
+    "path": "/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/",
+    "title": "Fabricant de combinaison et sur-blouse de protection - YB Company",
+    "h1": "Combinaison de protection",
+    "description": "Fabricant, producteur de sur-blouse, combinaison et visière de protection dédié au marché local ainsi qu'à l'export. Combinaison de protection à usage unique avec cagoule et fermeture à glissière. Sur-blouse confortable offrant une protrection optimal. visière de protevtion en plexi.",
+    "ogImage": "https://ybcompany.ma/content/uploads/2020/05/combinaison-de-protection-unique-chimique-et-particules.jpg",
+    "label": "Fabricant de combinaison et sur-blouse de protection",
+    "parent": "Covid-19"
+  },
+  {
+    "key": "partenaires-mode",
+    "path": "/partenaires-references/textile-habillement-mode-sport/",
+    "title": "Confection mode - YB Company",
+    "h1": "CONFECTION DE MODE",
+    "description": null,
+    "ogImage": "https://ybcompany.ma/content/uploads/2022/04/timeless_photography-768x616.png",
+    "label": "Confection mode",
+    "parent": "Partenaires",
+    "ogDescription": "CONFECTION DE MODE La polyvalence et l’expertise a permis à YB Company de collaborer avec plusieurs marques dans le domaine du textile et habillement, aussi variées que prestigieuses, nationales et internationales dans la MODE et SPORTSWEAR. Timeless Fine art  Photography Timeless photography est un studio qui propose des photos artistiques pour nouveau né, enfant et …",
+    "twitterDescription": "CONFECTION DE MODE La polyvalence et l’expertise a permis à YB Company de collaborer avec plusieurs marques dans le domaine du textile et habillement, aussi variées que prestigieuses, nationales et internationales dans la MODE et SPORTSWEAR. Timeless Fine art  Photography Timeless photography est un studio qui propose des photos artistiques pour nouveau né, enfant et […]"
+  },
+  {
+    "key": "confection-sport",
+    "path": "/confection-sport/",
+    "title": "CONFECTION SPORT - YB Company",
+    "h1": "CONFECTION SPORT",
+    "description": null,
+    "ogImage": "https://ybcompany.ma/content/uploads/2018/01/tribord-collaboration-yb-company.jpg",
+    "label": "CONFECTION SPORT",
+    "parent": "Partenaires",
+    "ogDescription": "CONFECTION SPORT La polyvalence et l’expertise a permis à YB Company de collaborer avec plusieurs marques dans le domaine du textile et habillement, aussi variées que prestigieuses, nationales et internationales dans la MODE et SPORTSWEAR. TRIBORD Tribord est la marque des sports d’eau (glisse, plongée, voile, kayak) du groupe Decathlon. nabaji nabaji  est la marque …",
+    "twitterDescription": "CONFECTION SPORT La polyvalence et l’expertise a permis à YB Company de collaborer avec plusieurs marques dans le domaine du textile et habillement, aussi variées que prestigieuses, nationales et internationales dans la MODE et SPORTSWEAR. TRIBORD Tribord est la marque des sports d’eau (glisse, plongée, voile, kayak) du groupe Decathlon. nabaji nabaji  est la marque […]"
+  },
+  {
+    "key": "partenaires-pub",
+    "path": "/partenaires-references/industrie-publicitaire/",
+    "title": "Industrie Publicitaire - YB Company maroc casablanca",
+    "h1": "Industrie Publicitaire",
+    "description": "Situé à casablanca yb company vous offre des produits publicitaires tel que : beach flag, roll up, drapeaux, x banner, l banner, sac tnt en polypropylène...",
+    "ogImage": "https://ybcompany.ma/content/uploads/2018/01/Renault-logo-2007-2048x2048-150x150.png",
+    "label": "Industrie Publicitaire",
+    "parent": "Partenaires"
+  },
+  {
+    "key": "contact",
+    "path": "/contact/",
+    "title": "Contact - YB Company",
+    "h1": "Contactez-nous",
+    "description": null,
+    "ogImage": null,
+    "label": "Contact",
+    "ogDescription": "Contactez-nous HAMZA BENHADDOU  Tél : 06 23 34 55 58  h.benhaddou@ybcompany.ma  YOUSSEF BENHADDOU  Tél : 06 61 09 74 41 yb.company.maroc@gmail.com",
+    "twitterDescription": "Contactez-nous HAMZA BENHADDOU  Tél : 06 23 34 55 58  h.benhaddou@ybcompany.ma  YOUSSEF BENHADDOU  Tél : 06 61 09 74 41 yb.company.maroc@gmail.com"
+  }
+]

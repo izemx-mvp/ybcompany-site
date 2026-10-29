@@ -1,0 +1,5288 @@
+{
+ "live": {
+  "home": [
+   {
+    "id": "home-banner",
+    "file": "/images/home/visuel-bandeau.webp",
+    "alt": "industrie publicitaire maroc casablanca textile sacherie",
+    "ok": true,
+    "w": 1200,
+    "h": 642,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "home-01",
+    "file": "/images/home/production-de-vetement.webp",
+    "alt": "production_de_vetement",
+    "ok": true,
+    "w": 902,
+    "h": 1112,
+    "vw": [
+     640
+    ],
+    "aw": 902
+   },
+   {
+    "id": "home-02",
+    "file": "/images/home/production-de-pyjama.webp",
+    "alt": "production_de_pyjama",
+    "ok": true,
+    "w": 952,
+    "h": 1186,
+    "vw": [
+     640
+    ],
+    "aw": 952
+   },
+   {
+    "id": "home-03",
+    "file": "/images/home/confection-de-pyjama-maroc.webp",
+    "alt": "confection_de_pyjama_maroc",
+    "ok": true,
+    "w": 972,
+    "h": 1078,
+    "vw": [
+     640
+    ],
+    "aw": 972
+   },
+   {
+    "id": "home-04",
+    "file": "/images/home/confection-de-pyjama-casablanca.webp",
+    "alt": "confection_de_pyjama_casablanca",
+    "ok": true,
+    "w": 584,
+    "h": 900,
+    "vw": [],
+    "aw": 584
+   },
+   {
+    "id": "home-05",
+    "file": "/images/home/producteur-maillot-sport.webp",
+    "alt": "producteur maillot sport",
+    "ok": true,
+    "w": 1191,
+    "h": 716,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1191
+   },
+   {
+    "id": "home-06",
+    "file": "/images/home/fabrication-de-tenue-personnalisable.webp",
+    "alt": "fabrication de tenue personnalisable",
+    "ok": true,
+    "w": 1280,
+    "h": 960,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "home-07",
+    "file": "/images/home/fabricant-polo.webp",
+    "alt": "fabricant polo",
+    "ok": true,
+    "w": 960,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "home-08",
+    "file": "/images/home/production-de-survetement.webp",
+    "alt": "production de survêtement",
+    "ok": true,
+    "w": 551,
+    "h": 549,
+    "vw": [],
+    "aw": 551
+   },
+   {
+    "id": "home-09",
+    "file": "/images/home/textile-au-maroc.webp",
+    "alt": "textile au maroc",
+    "ok": true,
+    "w": 549,
+    "h": 546,
+    "vw": [],
+    "aw": 549
+   },
+   {
+    "id": "home-10",
+    "file": "/images/home/textile-casablanca.webp",
+    "alt": "textile casablanca",
+    "ok": true,
+    "w": 553,
+    "h": 551,
+    "vw": [],
+    "aw": 553
+   },
+   {
+    "id": "home-11",
+    "file": "/images/home/societe-de-confection-maroc.webp",
+    "alt": "société de confection maroc",
+    "ok": true,
+    "w": 1708,
+    "h": 2560,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "home-12",
+    "file": "/images/home/pyjama-produite-au-maroc.webp",
+    "alt": "pyjama produite au maroc",
+    "ok": true,
+    "w": 1708,
+    "h": 2560,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "home-13",
+    "file": "/images/home/societe-de-textile-maroc.webp",
+    "alt": "société de textile maroc",
+    "ok": true,
+    "w": 1708,
+    "h": 2560,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "home-14",
+    "file": "/images/home/production-de-pyjama-2.webp",
+    "alt": "production_de_pyjama",
+    "ok": true,
+    "w": 1708,
+    "h": 2560,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "home-15",
+    "file": "/images/home/confection-de-vetements-casablanca.webp",
+    "alt": "confection de vêtements casablanca",
+    "ok": true,
+    "w": 1600,
+    "h": 1235,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "home-16",
+    "file": "/images/home/visuel-16.webp",
+    "alt": "mur image publicitaire personnalisé",
+    "ok": true,
+    "w": 622,
+    "h": 1280,
+    "vw": [],
+    "aw": 622
+   },
+   {
+    "id": "home-17",
+    "file": "/images/home/textile-maroc.webp",
+    "alt": "textile maroc",
+    "ok": true,
+    "w": 592,
+    "h": 669,
+    "vw": [],
+    "aw": 592
+   },
+   {
+    "id": "home-18",
+    "file": "/images/home/oa-sport-maillot-de-foot.webp",
+    "alt": "oa sport maillot de foot",
+    "ok": true,
+    "w": 715,
+    "h": 808,
+    "vw": [
+     640
+    ],
+    "aw": 715
+   }
+  ],
+  "philosophie": [
+   {
+    "id": "philosophie-banner",
+    "file": "/images/philosophie/sublimation-textile-maroc.webp",
+    "alt": "sublimation textile maroc",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   }
+  ],
+  "business-model": [],
+  "valeur-ajoutee": [],
+  "sport-casual": [
+   {
+    "id": "sport-casual-banner",
+    "file": "/images/sport-casual/production-vetement-de-sport.webp",
+    "alt": "Production-vetement-de-sport",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   },
+   {
+    "id": "sport-casual-01",
+    "file": "/images/sport-casual/textile-fabrication-de-tenue-de-rugby-maroc-casablanca.webp",
+    "alt": "textile fabrication de tenue de rugby maroc casablanca",
+    "ok": true,
+    "w": 450,
+    "h": 450,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sport-casual-02",
+    "file": "/images/sport-casual/textile-fabricant-de-tenue-de-hockey-maroc-casablanca.webp",
+    "alt": "textile fabricant de tenue de hockey maroc casablanca",
+    "ok": true,
+    "w": 550,
+    "h": 550,
+    "vw": [],
+    "aw": 550
+   },
+   {
+    "id": "sport-casual-03",
+    "file": "/images/sport-casual/textile-fabricant-de-tenue-de-basketball-au-maroc.webp",
+    "alt": "textile fabricant de tenue de basketball au maroc",
+    "ok": true,
+    "w": 800,
+    "h": 566,
+    "vw": [
+     640
+    ],
+    "aw": 800
+   },
+   {
+    "id": "sport-casual-04",
+    "file": "/images/sport-casual/textile-fabrication-de-tenue-de-handball.webp",
+    "alt": "textile fabrication de tenue de handball",
+    "ok": true,
+    "w": 178,
+    "h": 178,
+    "vw": [],
+    "aw": 178
+   },
+   {
+    "id": "sport-casual-05",
+    "file": "/images/sport-casual/fabricant-tenue-de-football-maroc.webp",
+    "alt": "fabricant tenue de football maroc",
+    "ok": true,
+    "w": 542,
+    "h": 542,
+    "vw": [],
+    "aw": 542
+   },
+   {
+    "id": "sport-casual-06",
+    "file": "/images/sport-casual/textile-production-de-tenue-de-boxe-maroc-casablanca.webp",
+    "alt": "textile production de tenue de boxe maroc casablanca",
+    "ok": true,
+    "w": 800,
+    "h": 800,
+    "vw": [
+     640
+    ],
+    "aw": 800
+   },
+   {
+    "id": "sport-casual-07",
+    "file": "/images/sport-casual/textile-tenue-de-running.webp",
+    "alt": "textile tenue de running",
+    "ok": true,
+    "w": 852,
+    "h": 480,
+    "vw": [
+     640
+    ],
+    "aw": 852
+   },
+   {
+    "id": "sport-casual-08",
+    "file": "/images/sport-casual/textile-fabricant-vetement-de-cyclisme-maroc-casablanca.webp",
+    "alt": "textile fabricant vêtement de cyclisme maroc casablanca",
+    "ok": true,
+    "w": 333,
+    "h": 361,
+    "vw": [],
+    "aw": 333
+   },
+   {
+    "id": "sport-casual-09",
+    "file": "/images/sport-casual/societe-de-textile-maroc.webp",
+    "alt": "société de textile maroc",
+    "ok": true,
+    "w": 960,
+    "h": 720,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "sport-casual-10",
+    "file": "/images/sport-casual/fournisseur-tenue-de-sport.webp",
+    "alt": "fournisseur tenue de sport",
+    "ok": true,
+    "w": 720,
+    "h": 668,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "sport-casual-11",
+    "file": "/images/sport-casual/fabricant-maillot-de-foot-maroc.webp",
+    "alt": "fabricant maillot de foot maroc",
+    "ok": true,
+    "w": 704,
+    "h": 671,
+    "vw": [
+     640
+    ],
+    "aw": 704
+   },
+   {
+    "id": "sport-casual-12",
+    "file": "/images/sport-casual/societe-de-textile-au-maroc.webp",
+    "alt": "société de textile au maroc",
+    "ok": true,
+    "w": 720,
+    "h": 671,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "sport-casual-13",
+    "file": "/images/sport-casual/societe-de-textile-maroc-2.webp",
+    "alt": "société de textile maroc",
+    "ok": true,
+    "w": 960,
+    "h": 526,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "sport-casual-14",
+    "file": "/images/sport-casual/societe-de-textile-maroc-casablanca.webp",
+    "alt": "société de textile maroc casablanca",
+    "ok": true,
+    "w": 720,
+    "h": 532,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "sport-casual-15",
+    "file": "/images/sport-casual/confection-de-tenue-de-foot-casablanca-maroc.webp",
+    "alt": "confection de tenue de foot casablanca maroc",
+    "ok": true,
+    "w": 1032,
+    "h": 581,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1032
+   },
+   {
+    "id": "sport-casual-16",
+    "file": "/images/sport-casual/confection-de-maillot-de-football-casablanca-maroc.webp",
+    "alt": "confection de maillot de football casablanca maroc",
+    "ok": true,
+    "w": 540,
+    "h": 960,
+    "vw": [],
+    "aw": 540
+   },
+   {
+    "id": "sport-casual-17",
+    "file": "/images/sport-casual/creation-de-maillot-de-foot.webp",
+    "alt": "création de maillot de foot",
+    "ok": true,
+    "w": 1280,
+    "h": 960,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "sport-casual-18",
+    "file": "/images/sport-casual/tenue-de-sport.webp",
+    "alt": "tenue de sport",
+    "ok": true,
+    "w": 720,
+    "h": 485,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "sport-casual-19",
+    "file": "/images/sport-casual/textile-sport-et-habillement.webp",
+    "alt": "textile sport et habillement",
+    "ok": true,
+    "w": 960,
+    "h": 540,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "sport-casual-20",
+    "file": "/images/sport-casual/sportswear.webp",
+    "alt": "sportswear",
+    "ok": true,
+    "w": 720,
+    "h": 523,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "sport-casual-21",
+    "file": "/images/sport-casual/confection-de-vetement-de-foot-casablanca-maroc.webp",
+    "alt": "confection de vetement de foot casablanca maroc",
+    "ok": true,
+    "w": 1280,
+    "h": 932,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "sport-casual-22",
+    "file": "/images/sport-casual/production-tenue-foot-casablanca-maroc.webp",
+    "alt": "production tenue foot casablanca maroc",
+    "ok": true,
+    "w": 960,
+    "h": 720,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "sport-casual-23",
+    "file": "/images/sport-casual/creation-de-vetement-personnalise.webp",
+    "alt": "création de vêtement personnalisé",
+    "ok": true,
+    "w": 1440,
+    "h": 810,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1440
+   },
+   {
+    "id": "sport-casual-24",
+    "file": "/images/sport-casual/achat-tenue-basket-maroc.webp",
+    "alt": "achat tenue basket maroc",
+    "ok": true,
+    "w": 960,
+    "h": 741,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "sport-casual-25",
+    "file": "/images/sport-casual/producteur-tenue-sportive-maroc-casa.webp",
+    "alt": "producteur tenue sportive maroc casa",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-26",
+    "file": "/images/sport-casual/confection-de-tenue-de-basketball.webp",
+    "alt": "confection de tenue de basketball",
+    "ok": true,
+    "w": 2000,
+    "h": 1423,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-27",
+    "file": "/images/sport-casual/fabrication-de-tenue-basketball.webp",
+    "alt": "fabrication de tenue basketball",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-28",
+    "file": "/images/sport-casual/production-de-vetement-sportif.webp",
+    "alt": "production de vêtement sportif",
+    "ok": true,
+    "w": 640,
+    "h": 960,
+    "vw": [],
+    "aw": 640
+   },
+   {
+    "id": "sport-casual-29",
+    "file": "/images/sport-casual/fabricant-de-tenue-de-basketball.webp",
+    "alt": "fabricant de tenue de basketball",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-30",
+    "file": "/images/sport-casual/confection-d-une-tenue-de-basketball.webp",
+    "alt": "confection d'une tenue de basketball",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-31",
+    "file": "/images/sport-casual/confection-de-tenue-de-basketball-2.webp",
+    "alt": "confection de tenue de basketball",
+    "ok": true,
+    "w": 2000,
+    "h": 1400,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-32",
+    "file": "/images/sport-casual/confection-de-vetement-de-sport.webp",
+    "alt": "confection-de-vetement de sport",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-33",
+    "file": "/images/sport-casual/fabricant-de-textile.webp",
+    "alt": "fabricant de textile",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-34",
+    "file": "/images/sport-casual/tenue-de-basketball-textile.webp",
+    "alt": "tenue de basketball textile",
+    "ok": true,
+    "w": 640,
+    "h": 960,
+    "vw": [],
+    "aw": 640
+   },
+   {
+    "id": "sport-casual-35",
+    "file": "/images/sport-casual/fabricant-de-tenue-sportif.webp",
+    "alt": "fabricant de tenue sportif",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-36",
+    "file": "/images/sport-casual/producteur-de-rashguard-au-maroc.webp",
+    "alt": "producteur de rashguard au maroc",
+    "ok": true,
+    "w": 724,
+    "h": 905,
+    "vw": [
+     640
+    ],
+    "aw": 724
+   },
+   {
+    "id": "sport-casual-37",
+    "file": "/images/sport-casual/production-rash-guards-casablanca-maroc.webp",
+    "alt": "production rash guards casablanca maroc",
+    "ok": true,
+    "w": 540,
+    "h": 540,
+    "vw": [],
+    "aw": 540
+   },
+   {
+    "id": "sport-casual-38",
+    "file": "/images/sport-casual/atelier-de-production-rash-guards.webp",
+    "alt": "atelier de production rash guards",
+    "ok": true,
+    "w": 540,
+    "h": 540,
+    "vw": [],
+    "aw": 540
+   },
+   {
+    "id": "sport-casual-39",
+    "file": "/images/sport-casual/tenue-de-combat-emma-au-maroc.webp",
+    "alt": "tenue de combat Emma au maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sport-casual-40",
+    "file": "/images/sport-casual/textile-tenue-sport-au-maroc.webp",
+    "alt": "textile tenue sport au maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sport-casual-41",
+    "file": "/images/sport-casual/confection-rashguards.webp",
+    "alt": "confection rashguards",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sport-casual-42",
+    "file": "/images/sport-casual/confection-de-tenue-de-sport-au-maroc.webp",
+    "alt": "confection de tenue de sport au maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sport-casual-43",
+    "file": "/images/sport-casual/confection-de-tenue-de-combat-emma-au-maroc.webp",
+    "alt": "confection de tenue de combat Emma au maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sport-casual-44",
+    "file": "/images/sport-casual/fabricant-de-tenue-sportive-au-maroc-casablanca.webp",
+    "alt": "fabricant de tenue sportive au maroc casablanca",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sport-casual-45",
+    "file": "/images/sport-casual/textile-fabricant-de-vetement-de-sport.webp",
+    "alt": "textile fabricant de vêtement de sport",
+    "ok": true,
+    "w": 2000,
+    "h": 1500,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-46",
+    "file": "/images/sport-casual/confection-de-tenue-de-sport-au-maroc-a-casablanca.webp",
+    "alt": "confection de tenue de sport au maroc à casablanca",
+    "ok": true,
+    "w": 720,
+    "h": 960,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "sport-casual-47",
+    "file": "/images/sport-casual/fabricant-de-tenue-de-sport-mm-au-maroc.webp",
+    "alt": "fabricant de tenue de sport mm au maroc",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-48",
+    "file": "/images/sport-casual/fabricant-de-tenue-de-sport-au-maroc.webp",
+    "alt": "fabricant de tenue de sport au maroc",
+    "ok": true,
+    "w": 2000,
+    "h": 1334,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-49",
+    "file": "/images/sport-casual/producteur-textile-sport-casa.webp",
+    "alt": "producteur_textile_sport_casa",
+    "ok": true,
+    "w": 810,
+    "h": 1013,
+    "vw": [
+     640
+    ],
+    "aw": 810
+   },
+   {
+    "id": "sport-casual-50",
+    "file": "/images/sport-casual/vente-vetement-en-ligne-maroc-3.webp",
+    "alt": "vente_vetement_en_ligne_maroc-3",
+    "ok": true,
+    "w": 859,
+    "h": 1074,
+    "vw": [
+     640
+    ],
+    "aw": 859
+   },
+   {
+    "id": "sport-casual-51",
+    "file": "/images/sport-casual/achat-vetement-casa-en-gros.webp",
+    "alt": "achat_vetement_casa_en_gros",
+    "ok": true,
+    "w": 782,
+    "h": 977,
+    "vw": [
+     640
+    ],
+    "aw": 782
+   },
+   {
+    "id": "sport-casual-52",
+    "file": "/images/sport-casual/achetter-des-vetements-en-ligne-de-sport.webp",
+    "alt": "achetter_des_vetements_en_ligne_de_sport",
+    "ok": true,
+    "w": 845,
+    "h": 1056,
+    "vw": [
+     640
+    ],
+    "aw": 845
+   },
+   {
+    "id": "sport-casual-53",
+    "file": "/images/sport-casual/production-vetement-fitness-maroc-casa.webp",
+    "alt": "production_vetement_fitness_maroc_casa",
+    "ok": true,
+    "w": 1200,
+    "h": 1500,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "sport-casual-54",
+    "file": "/images/sport-casual/vetement-sport-maroc.webp",
+    "alt": "vêtement sport maroc",
+    "ok": true,
+    "w": 1200,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "sport-casual-55",
+    "file": "/images/sport-casual/fabricant-vetement-de-sport-maroc-casa.webp",
+    "alt": "fabricant_vetement_De_sport_maroc_casa",
+    "ok": true,
+    "w": 1200,
+    "h": 1500,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "sport-casual-56",
+    "file": "/images/sport-casual/fabricant-tenue-sportives.webp",
+    "alt": "fabricant_tenue_sportives",
+    "ok": true,
+    "w": 1200,
+    "h": 1500,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "sport-casual-57",
+    "file": "/images/sport-casual/producteur-de-vetement-a-casa.webp",
+    "alt": "producteur_de_vetement_à_casa",
+    "ok": true,
+    "w": 1200,
+    "h": 1500,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "sport-casual-58",
+    "file": "/images/sport-casual/vetement-sport-casablanca.webp",
+    "alt": "vetement sport casablanca",
+    "ok": true,
+    "w": 1854,
+    "h": 1824,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-59",
+    "file": "/images/sport-casual/tenue-sportive.webp",
+    "alt": "tenue sportive",
+    "ok": true,
+    "w": 1080,
+    "h": 1271,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1080
+   },
+   {
+    "id": "sport-casual-60",
+    "file": "/images/sport-casual/production-textile-maroc.webp",
+    "alt": "production textile maroc",
+    "ok": true,
+    "w": 1730,
+    "h": 2380,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-61",
+    "file": "/images/sport-casual/fabricant-sportswear.webp",
+    "alt": "fabricant sportswear",
+    "ok": true,
+    "w": 2000,
+    "h": 962,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-62",
+    "file": "/images/sport-casual/textile-production-maroc.webp",
+    "alt": "textile production maroc",
+    "ok": true,
+    "w": 2000,
+    "h": 1469,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-63",
+    "file": "/images/sport-casual/fabricant-maroc-tenue-de-sport.webp",
+    "alt": "fabricant maroc tenue de sport",
+    "ok": true,
+    "w": 1476,
+    "h": 1470,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1476
+   },
+   {
+    "id": "sport-casual-64",
+    "file": "/images/sport-casual/usine-de-textile-sport.webp",
+    "alt": "usine de textile sport",
+    "ok": true,
+    "w": 1284,
+    "h": 1787,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1284
+   },
+   {
+    "id": "sport-casual-65",
+    "file": "/images/sport-casual/textile-au-maroc.webp",
+    "alt": "textile au maroc",
+    "ok": true,
+    "w": 1080,
+    "h": 1077,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1080
+   },
+   {
+    "id": "sport-casual-66",
+    "file": "/images/sport-casual/survetement-de-sport.webp",
+    "alt": "survêtement de sport",
+    "ok": true,
+    "w": 1550,
+    "h": 2495,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1550
+   },
+   {
+    "id": "sport-casual-67",
+    "file": "/images/sport-casual/producteur-survetement.webp",
+    "alt": "producteur survêtement",
+    "ok": true,
+    "w": 730,
+    "h": 1104,
+    "vw": [
+     640
+    ],
+    "aw": 730
+   },
+   {
+    "id": "sport-casual-68",
+    "file": "/images/sport-casual/tenue-de-sport-2.webp",
+    "alt": "tenue de sport",
+    "ok": true,
+    "w": 1080,
+    "h": 1077,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1080
+   },
+   {
+    "id": "sport-casual-69",
+    "file": "/images/sport-casual/textile-maroc.webp",
+    "alt": "textile maroc",
+    "ok": true,
+    "w": 2000,
+    "h": 1308,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-70",
+    "file": "/images/sport-casual/textile-sportswear-maroc.webp",
+    "alt": "textile sportswear maroc",
+    "ok": true,
+    "w": 2000,
+    "h": 1308,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-71",
+    "file": "/images/sport-casual/textile-coach-sportif.webp",
+    "alt": "textile coach sportif",
+    "ok": true,
+    "w": 2000,
+    "h": 1308,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "sport-casual-72",
+    "file": "/images/sport-casual/fabricant-sublimation-maillot.webp",
+    "alt": "fabricant sublimation maillot",
+    "ok": true,
+    "w": 922,
+    "h": 740,
+    "vw": [
+     640
+    ],
+    "aw": 922
+   },
+   {
+    "id": "sport-casual-73",
+    "file": "/images/sport-casual/textile-tenue-de-rugby-casablanca.webp",
+    "alt": "textile tenue de rugby casablanca",
+    "ok": true,
+    "w": 922,
+    "h": 740,
+    "vw": [
+     640
+    ],
+    "aw": 922
+   },
+   {
+    "id": "sport-casual-74",
+    "file": "/images/sport-casual/fabricant-maillot-de-rugby.webp",
+    "alt": "fabricant maillot de rugby",
+    "ok": true,
+    "w": 922,
+    "h": 740,
+    "vw": [
+     640
+    ],
+    "aw": 922
+   },
+   {
+    "id": "sport-casual-75",
+    "file": "/images/sport-casual/producteur-au-maroc-de-maillot.webp",
+    "alt": "producteur au maroc de maillot",
+    "ok": true,
+    "w": 922,
+    "h": 740,
+    "vw": [
+     640
+    ],
+    "aw": 922
+   }
+  ],
+  "mode": [
+   {
+    "id": "mode-banner",
+    "file": "/images/mode/atelier-de-confection-maroc-casablanca.webp",
+    "alt": "atelier de confection maroc casablanca",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   },
+   {
+    "id": "mode-01",
+    "file": "/images/mode/collaboration-yassine-morabite.webp",
+    "alt": "collaboration yassine morabite",
+    "ok": true,
+    "w": 960,
+    "h": 540,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "mode-02",
+    "file": "/images/mode/atelier-de-confection-mode.webp",
+    "alt": "atelier de confection mode",
+    "ok": true,
+    "w": 750,
+    "h": 949,
+    "vw": [
+     640
+    ],
+    "aw": 750
+   },
+   {
+    "id": "mode-03",
+    "file": "/images/mode/usine-de-confection-casablanca.webp",
+    "alt": "usine de confection casablanca",
+    "ok": true,
+    "w": 830,
+    "h": 960,
+    "vw": [
+     640
+    ],
+    "aw": 830
+   },
+   {
+    "id": "mode-04",
+    "file": "/images/mode/collaboration-yassine-morabite-2.webp",
+    "alt": "collaboration yassine morabite",
+    "ok": true,
+    "w": 959,
+    "h": 959,
+    "vw": [
+     640
+    ],
+    "aw": 959
+   },
+   {
+    "id": "mode-05",
+    "file": "/images/mode/noir-collaboration-yassine-morabite.webp",
+    "alt": "noir collaboration yassine morabite",
+    "ok": true,
+    "w": 206,
+    "h": 309,
+    "vw": [],
+    "aw": 206
+   },
+   {
+    "id": "mode-06",
+    "file": "/images/mode/producteur-de-vetement-casablanca.webp",
+    "alt": "producteur de vêtement casablanca",
+    "ok": true,
+    "w": 605,
+    "h": 1280,
+    "vw": [],
+    "aw": 605
+   },
+   {
+    "id": "mode-07",
+    "file": "/images/mode/fabricant-de-textile-au-maroc.webp",
+    "alt": "fabricant de textile au maroc",
+    "ok": true,
+    "w": 622,
+    "h": 960,
+    "vw": [],
+    "aw": 622
+   },
+   {
+    "id": "mode-08",
+    "file": "/images/mode/fabricant-de-textile-maroc.webp",
+    "alt": "fabricant de textile maroc",
+    "ok": true,
+    "w": 720,
+    "h": 960,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "mode-09",
+    "file": "/images/mode/production-textile-yassine-morabite.webp",
+    "alt": "production textile yassine morabite",
+    "ok": true,
+    "w": 636,
+    "h": 960,
+    "vw": [],
+    "aw": 636
+   },
+   {
+    "id": "mode-10",
+    "file": "/images/mode/fabricant-textile-mode-casablanca.webp",
+    "alt": "fabricant textile mode casablanca",
+    "ok": true,
+    "w": 772,
+    "h": 960,
+    "vw": [
+     640
+    ],
+    "aw": 772
+   }
+  ],
+  "sublimation": [
+   {
+    "id": "sublimation-banner",
+    "file": "/images/sublimation/sublimation-textile-maroc-casablanca.webp",
+    "alt": "sublimation textile maroc casablanca",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   },
+   {
+    "id": "sublimation-01",
+    "file": "/images/sublimation/pouf-fabricant.webp",
+    "alt": "pouf fabricant",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sublimation-02",
+    "file": "/images/sublimation/production-de-pouf.webp",
+    "alt": "production de pouf",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sublimation-03",
+    "file": "/images/sublimation/coussin-personnalise.webp",
+    "alt": "coussin personnalisé",
+    "ok": true,
+    "w": 225,
+    "h": 225,
+    "vw": [],
+    "aw": 225
+   },
+   {
+    "id": "sublimation-04",
+    "file": "/images/sublimation/impression-sur-tissu.webp",
+    "alt": "impression sur tissu",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sublimation-05",
+    "file": "/images/sublimation/pouf-personnalise.webp",
+    "alt": "pouf personnalisé",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sublimation-06",
+    "file": "/images/sublimation/fabricant-de-pouf-maroc.webp",
+    "alt": "fabricant de pouf maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sublimation-07",
+    "file": "/images/sublimation/production-de-pouf-personnalise-casa.webp",
+    "alt": "production de pouf personnalisé casa",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sublimation-08",
+    "file": "/images/sublimation/impression-sublimation.webp",
+    "alt": "impression sublimation",
+    "ok": true,
+    "w": 540,
+    "h": 540,
+    "vw": [],
+    "aw": 540
+   },
+   {
+    "id": "sublimation-09",
+    "file": "/images/sublimation/fabricant-de-pouf-sur-casablanca.webp",
+    "alt": "fabricant de pouf sur casablanca",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sublimation-10",
+    "file": "/images/sublimation/sublimation-sur-pouf.webp",
+    "alt": "sublimation sur pouf",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sublimation-11",
+    "file": "/images/sublimation/pouf-personnalise-2.webp",
+    "alt": "pouf personnalisé",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "sublimation-12",
+    "file": "/images/sublimation/house-personnalise.webp",
+    "alt": "house personnalisé",
+    "ok": true,
+    "w": 400,
+    "h": 400,
+    "vw": [],
+    "aw": 400
+   },
+   {
+    "id": "sublimation-13",
+    "file": "/images/sublimation/impression-sur-tissu-2.webp",
+    "alt": "impression sur tissu",
+    "ok": true,
+    "w": 228,
+    "h": 300,
+    "vw": [],
+    "aw": 228
+   },
+   {
+    "id": "sublimation-14",
+    "file": "/images/sublimation/impression-textile.webp",
+    "alt": "impression textile",
+    "ok": true,
+    "w": 225,
+    "h": 225,
+    "vw": [],
+    "aw": 225
+   }
+  ],
+  "grand-format": [
+   {
+    "id": "grand-format-banner",
+    "file": "/images/grand-format/impression-grand-format.webp",
+    "alt": "impression grand format",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   },
+   {
+    "id": "grand-format-01",
+    "file": "/images/grand-format/stand-exposition-amenagement.webp",
+    "alt": "stand exposition amenagement",
+    "ok": true,
+    "w": 765,
+    "h": 508,
+    "vw": [
+     640
+    ],
+    "aw": 765
+   },
+   {
+    "id": "grand-format-02",
+    "file": "/images/grand-format/impression-02.webp",
+    "alt": "roll up publicitaire",
+    "ok": true,
+    "w": 540,
+    "h": 540,
+    "vw": [],
+    "aw": 540
+   },
+   {
+    "id": "grand-format-03",
+    "file": "/images/grand-format/impression-03.webp",
+    "alt": "banderole publicitaire impression sur bâche",
+    "ok": true,
+    "w": 2000,
+    "h": 3556,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "grand-format-04",
+    "file": "/images/grand-format/banderole-bache-impression.webp",
+    "alt": "banderole bache impression",
+    "ok": true,
+    "w": 1111,
+    "h": 781,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1111
+   },
+   {
+    "id": "grand-format-05",
+    "file": "/images/grand-format/impression-05.webp",
+    "alt": "affiche publicitaire",
+    "ok": true,
+    "w": 1200,
+    "h": 900,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "grand-format-06",
+    "file": "/images/grand-format/decoration-interieur.webp",
+    "alt": "decoration-interieur",
+    "ok": true,
+    "w": 1032,
+    "h": 581,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1032
+   },
+   {
+    "id": "grand-format-07",
+    "file": "/images/grand-format/decoration-interieur-2.webp",
+    "alt": "decoration interieur",
+    "ok": true,
+    "w": 1000,
+    "h": 800,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "grand-format-08",
+    "file": "/images/grand-format/plv-habillage-vitrine.webp",
+    "alt": "plv habillage vitrine",
+    "ok": true,
+    "w": 800,
+    "h": 800,
+    "vw": [
+     640
+    ],
+    "aw": 800
+   },
+   {
+    "id": "grand-format-09",
+    "file": "/images/grand-format/palissade-de-chantier.webp",
+    "alt": "palissade-de-chantier",
+    "ok": true,
+    "w": 1032,
+    "h": 581,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1032
+   },
+   {
+    "id": "grand-format-10",
+    "file": "/images/grand-format/impression-10.webp",
+    "alt": "habillage-de-vehicule-publicite",
+    "ok": true,
+    "w": 1280,
+    "h": 723,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "grand-format-11",
+    "file": "/images/grand-format/impression-carte-visite.webp",
+    "alt": "impression carte visite",
+    "ok": true,
+    "w": 875,
+    "h": 505,
+    "vw": [
+     640
+    ],
+    "aw": 875
+   },
+   {
+    "id": "grand-format-12",
+    "file": "/images/grand-format/brochure.webp",
+    "alt": "brochure",
+    "ok": true,
+    "w": 343,
+    "h": 147,
+    "vw": [],
+    "aw": 343
+   },
+   {
+    "id": "grand-format-13",
+    "file": "/images/grand-format/impression-prospectus.webp",
+    "alt": "impression prospectus",
+    "ok": true,
+    "w": 263,
+    "h": 192,
+    "vw": [],
+    "aw": 263
+   },
+   {
+    "id": "grand-format-14",
+    "file": "/images/grand-format/impression-sur-oneway.webp",
+    "alt": "impression sur oneway",
+    "ok": true,
+    "w": 600,
+    "h": 410,
+    "vw": [],
+    "aw": 600
+   },
+   {
+    "id": "grand-format-15",
+    "file": "/images/grand-format/impression-sur-oneway-2.webp",
+    "alt": "impression sur oneway",
+    "ok": true,
+    "w": 736,
+    "h": 484,
+    "vw": [
+     640
+    ],
+    "aw": 736
+   },
+   {
+    "id": "grand-format-16",
+    "file": "/images/grand-format/impression-grand-format-2.webp",
+    "alt": "impression grand format",
+    "ok": true,
+    "w": 717,
+    "h": 370,
+    "vw": [
+     640
+    ],
+    "aw": 717
+   }
+  ],
+  "amenagements": [
+   {
+    "id": "amenagements-banner",
+    "file": "/images/amenagements/amenagement-d-espace-plv-kakemono.webp",
+    "alt": "aménagement d'espace plv kakémono",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   },
+   {
+    "id": "amenagements-01",
+    "file": "/images/amenagements/stand-1024x1024.webp",
+    "alt": "",
+    "ok": true,
+    "w": 2000,
+    "h": 1125,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "amenagements-02",
+    "file": "/images/amenagements/nz6a2246-1024x1024.webp",
+    "alt": "",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "amenagements-03",
+    "file": "/images/amenagements/nz6a2186-1024x1024.webp",
+    "alt": "",
+    "ok": true,
+    "w": 2000,
+    "h": 1333,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   }
+  ],
+  "structures": [
+   {
+    "id": "structures-banner",
+    "file": "/images/structures/beach-flag-windflag-kakemono-caasblanca.webp",
+    "alt": "beach flag windflag kakémono caasblanca",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   },
+   {
+    "id": "structures-01",
+    "file": "/images/structures/support-01.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 552,
+    "h": 552,
+    "vw": [],
+    "aw": 552
+   },
+   {
+    "id": "structures-02",
+    "file": "/images/structures/support-02.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 552,
+    "h": 552,
+    "vw": [],
+    "aw": 552
+   },
+   {
+    "id": "structures-03",
+    "file": "/images/structures/winflag.webp",
+    "alt": "winflag",
+    "ok": true,
+    "w": 419,
+    "h": 516,
+    "vw": [],
+    "aw": 419
+   },
+   {
+    "id": "structures-04",
+    "file": "/images/structures/support-04.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 581,
+    "h": 1032,
+    "vw": [],
+    "aw": 581
+   },
+   {
+    "id": "structures-05",
+    "file": "/images/structures/oriflamme.webp",
+    "alt": "oriflamme",
+    "ok": true,
+    "w": 581,
+    "h": 1032,
+    "vw": [],
+    "aw": 581
+   },
+   {
+    "id": "structures-06",
+    "file": "/images/structures/beachflag.webp",
+    "alt": "beachflag",
+    "ok": true,
+    "w": 720,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "structures-07",
+    "file": "/images/structures/windflag.webp",
+    "alt": "windflag",
+    "ok": true,
+    "w": 1024,
+    "h": 1024,
+    "vw": [
+     640
+    ],
+    "aw": 1024
+   },
+   {
+    "id": "structures-08",
+    "file": "/images/structures/support-08.webp",
+    "alt": "beach flag, drapeau publicité, kakémono",
+    "ok": true,
+    "w": 1564,
+    "h": 1564,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1564
+   },
+   {
+    "id": "structures-09",
+    "file": "/images/structures/support-09.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 512,
+    "h": 1280,
+    "vw": [],
+    "aw": 512
+   },
+   {
+    "id": "structures-10",
+    "file": "/images/structures/support-10.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 1080,
+    "h": 1080,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1080
+   },
+   {
+    "id": "structures-11",
+    "file": "/images/structures/support-11.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 720,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "structures-12",
+    "file": "/images/structures/support-12.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 960,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "structures-13",
+    "file": "/images/structures/support-13.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 960,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "structures-14",
+    "file": "/images/structures/support-14.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 960,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "structures-15",
+    "file": "/images/structures/kakemono.webp",
+    "alt": "kakemono",
+    "ok": true,
+    "w": 1365,
+    "h": 2048,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1365
+   },
+   {
+    "id": "structures-16",
+    "file": "/images/structures/kakemono-2.webp",
+    "alt": "kakemono",
+    "ok": true,
+    "w": 581,
+    "h": 1032,
+    "vw": [],
+    "aw": 581
+   },
+   {
+    "id": "structures-17",
+    "file": "/images/structures/support-17.webp",
+    "alt": "beach flag, drapeau,publicité, affiche publicitaire",
+    "ok": true,
+    "w": 1152,
+    "h": 2048,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1152
+   },
+   {
+    "id": "structures-18",
+    "file": "/images/structures/banderole-bache-impression.webp",
+    "alt": "banderole bache impression",
+    "ok": true,
+    "w": 1111,
+    "h": 781,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1111
+   },
+   {
+    "id": "structures-19",
+    "file": "/images/structures/support-19.webp",
+    "alt": "affiche publicitaire",
+    "ok": true,
+    "w": 1200,
+    "h": 900,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "structures-20",
+    "file": "/images/structures/support-20.webp",
+    "alt": "x banners, affiche publicitaire",
+    "ok": true,
+    "w": 536,
+    "h": 536,
+    "vw": [],
+    "aw": 536
+   },
+   {
+    "id": "structures-21",
+    "file": "/images/structures/plv.webp",
+    "alt": "plv",
+    "ok": true,
+    "w": 540,
+    "h": 540,
+    "vw": [],
+    "aw": 540
+   },
+   {
+    "id": "structures-22",
+    "file": "/images/structures/support-22.webp",
+    "alt": "l banners, affiche publicitaire",
+    "ok": true,
+    "w": 552,
+    "h": 552,
+    "vw": [],
+    "aw": 552
+   },
+   {
+    "id": "structures-23",
+    "file": "/images/structures/support-23.webp",
+    "alt": "affichage publicitaire",
+    "ok": true,
+    "w": 960,
+    "h": 720,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "structures-24",
+    "file": "/images/structures/kekemono.webp",
+    "alt": "kekemono",
+    "ok": true,
+    "w": 1280,
+    "h": 720,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-25",
+    "file": "/images/structures/kakemono-3.webp",
+    "alt": "kakemono",
+    "ok": true,
+    "w": 900,
+    "h": 1600,
+    "vw": [
+     640
+    ],
+    "aw": 900
+   },
+   {
+    "id": "structures-26",
+    "file": "/images/structures/roll-up-affichage-et-communication.webp",
+    "alt": "roll up affichage et communication",
+    "ok": true,
+    "w": 720,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "structures-27",
+    "file": "/images/structures/support-27.webp",
+    "alt": "photo call publicitaire",
+    "ok": true,
+    "w": 1834,
+    "h": 1902,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-28",
+    "file": "/images/structures/plv-2.webp",
+    "alt": "plv",
+    "ok": true,
+    "w": 581,
+    "h": 1032,
+    "vw": [],
+    "aw": 581
+   },
+   {
+    "id": "structures-29",
+    "file": "/images/structures/support-29.webp",
+    "alt": "x banners publicité",
+    "ok": true,
+    "w": 960,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "structures-30",
+    "file": "/images/structures/plv-3.webp",
+    "alt": "plv",
+    "ok": true,
+    "w": 768,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 768
+   },
+   {
+    "id": "structures-31",
+    "file": "/images/structures/support-31.webp",
+    "alt": "affiche publicité",
+    "ok": true,
+    "w": 1280,
+    "h": 720,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-32",
+    "file": "/images/structures/support-32.webp",
+    "alt": "roll up publicitaire",
+    "ok": true,
+    "w": 1599,
+    "h": 899,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1599
+   },
+   {
+    "id": "structures-33",
+    "file": "/images/structures/roll-up.webp",
+    "alt": "roll up",
+    "ok": true,
+    "w": 1280,
+    "h": 960,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-34",
+    "file": "/images/structures/kakemono-4.webp",
+    "alt": "kakemono",
+    "ok": true,
+    "w": 720,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "structures-35",
+    "file": "/images/structures/cadre-aluminium-amovible.webp",
+    "alt": "Cadre aluminium amovible",
+    "ok": true,
+    "w": 364,
+    "h": 546,
+    "vw": [],
+    "aw": 364
+   },
+   {
+    "id": "structures-36",
+    "file": "/images/structures/support-36.webp",
+    "alt": "enseigne publicité petit format",
+    "ok": true,
+    "w": 960,
+    "h": 720,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "structures-37",
+    "file": "/images/structures/support-37.webp",
+    "alt": "panneau publicitaire",
+    "ok": true,
+    "w": 2000,
+    "h": 2999,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-38",
+    "file": "/images/structures/support-38.webp",
+    "alt": "enseigne publicité grand format",
+    "ok": true,
+    "w": 1008,
+    "h": 567,
+    "vw": [
+     640
+    ],
+    "aw": 1008
+   },
+   {
+    "id": "structures-39",
+    "file": "/images/structures/support-39.webp",
+    "alt": "enseignes publicité",
+    "ok": true,
+    "w": 581,
+    "h": 1032,
+    "vw": [],
+    "aw": 581
+   },
+   {
+    "id": "structures-40",
+    "file": "/images/structures/enseigne-devanture-magasin.webp",
+    "alt": "enseigne devanture magasin",
+    "ok": true,
+    "w": 1280,
+    "h": 960,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-41",
+    "file": "/images/structures/enseigne-devanture-magasin-avec-lumieres.webp",
+    "alt": "enseigne devanture magasin avec lumières",
+    "ok": true,
+    "w": 1280,
+    "h": 960,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-42",
+    "file": "/images/structures/palissade-de-chantier.webp",
+    "alt": "palissade de chantier",
+    "ok": true,
+    "w": 756,
+    "h": 425,
+    "vw": [
+     640
+    ],
+    "aw": 756
+   },
+   {
+    "id": "structures-43",
+    "file": "/images/structures/palissade-de-chantier-2.webp",
+    "alt": "palissade de chantier",
+    "ok": true,
+    "w": 490,
+    "h": 324,
+    "vw": [],
+    "aw": 490
+   },
+   {
+    "id": "structures-44",
+    "file": "/images/structures/devanture-magasin.webp",
+    "alt": "devanture magasin",
+    "ok": true,
+    "w": 1080,
+    "h": 1080,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1080
+   },
+   {
+    "id": "structures-45",
+    "file": "/images/structures/support-45.webp",
+    "alt": "panneau publicitaire",
+    "ok": true,
+    "w": 2000,
+    "h": 1125,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-46",
+    "file": "/images/structures/stand.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1200,
+    "h": 1020,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "structures-47",
+    "file": "/images/structures/stand-2.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1600,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-48",
+    "file": "/images/structures/stand-3.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1600,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-49",
+    "file": "/images/structures/stand-4.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1024,
+    "h": 768,
+    "vw": [
+     640
+    ],
+    "aw": 1024
+   },
+   {
+    "id": "structures-50",
+    "file": "/images/structures/stand-5.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1440,
+    "h": 960,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1440
+   },
+   {
+    "id": "structures-51",
+    "file": "/images/structures/stand-6.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1600,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-52",
+    "file": "/images/structures/beach-flag.webp",
+    "alt": "beach flag",
+    "ok": true,
+    "w": 430,
+    "h": 266,
+    "vw": [],
+    "aw": 430
+   },
+   {
+    "id": "structures-53",
+    "file": "/images/structures/roll-up-2.webp",
+    "alt": "roll up",
+    "ok": true,
+    "w": 1328,
+    "h": 747,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1328
+   },
+   {
+    "id": "structures-54",
+    "file": "/images/structures/fabrication-de-stand-maroc-casablanca.webp",
+    "alt": "fabrication de stand maroc casablanca",
+    "ok": true,
+    "w": 500,
+    "h": 500,
+    "vw": [],
+    "aw": 500
+   },
+   {
+    "id": "structures-55",
+    "file": "/images/structures/stand-7.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1600,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-56",
+    "file": "/images/structures/stand-8.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1600,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-57",
+    "file": "/images/structures/stand-9.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1600,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-58",
+    "file": "/images/structures/plv-4.webp",
+    "alt": "plv",
+    "ok": true,
+    "w": 1600,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-59",
+    "file": "/images/structures/stand-10.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1600,
+    "h": 900,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-60",
+    "file": "/images/structures/stand-11.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1600,
+    "h": 900,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-61",
+    "file": "/images/structures/stand-12.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1280,
+    "h": 720,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-62",
+    "file": "/images/structures/stand-parapluie.webp",
+    "alt": "stand parapluie",
+    "ok": true,
+    "w": 1600,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-63",
+    "file": "/images/structures/stand-13.webp",
+    "alt": "stand",
+    "ok": true,
+    "w": 1600,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "structures-64",
+    "file": "/images/structures/habillage-de-voiture.webp",
+    "alt": "habillage de voiture",
+    "ok": true,
+    "w": 1280,
+    "h": 1280,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-65",
+    "file": "/images/structures/support-65.webp",
+    "alt": "habillage de camion publicité",
+    "ok": true,
+    "w": 1280,
+    "h": 723,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-66",
+    "file": "/images/structures/support-66.webp",
+    "alt": "habillage de camion publicitaire",
+    "ok": true,
+    "w": 1280,
+    "h": 723,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-67",
+    "file": "/images/structures/support-67.webp",
+    "alt": "habillage publicitaire",
+    "ok": true,
+    "w": 1280,
+    "h": 723,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "structures-68",
+    "file": "/images/structures/support-68.webp",
+    "alt": "habillage de camion publicitaire",
+    "ok": true,
+    "w": 1248,
+    "h": 936,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1248
+   },
+   {
+    "id": "structures-69",
+    "file": "/images/structures/habillage-de-camion.webp",
+    "alt": "habillage de camion",
+    "ok": true,
+    "w": 1248,
+    "h": 936,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1248
+   },
+   {
+    "id": "structures-70",
+    "file": "/images/structures/habillage-de-camion-2.webp",
+    "alt": "habillage de camion",
+    "ok": true,
+    "w": 1248,
+    "h": 936,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1248
+   },
+   {
+    "id": "structures-71",
+    "file": "/images/structures/habillage-de-camion-3.webp",
+    "alt": "habillage de camion",
+    "ok": true,
+    "w": 1248,
+    "h": 936,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1248
+   },
+   {
+    "id": "structures-72",
+    "file": "/images/structures/habillage-de-voiture-2.webp",
+    "alt": "habillage de voiture",
+    "ok": true,
+    "w": 1248,
+    "h": 936,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1248
+   },
+   {
+    "id": "structures-73",
+    "file": "/images/structures/habillage-de-voiture-3.webp",
+    "alt": "habillage de voiture",
+    "ok": true,
+    "w": 702,
+    "h": 936,
+    "vw": [
+     640
+    ],
+    "aw": 702
+   }
+  ],
+  "sacherie": [],
+  "sac-non-tisse": [
+   {
+    "id": "sac-non-tisse-banner",
+    "file": "/images/sac-non-tisse/produire-des-sac-non-tisse-casablanca-maroc.webp",
+    "alt": "produire des sac non tissé casablanca maroc",
+    "ok": true,
+    "w": 1200,
+    "h": 408,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "sac-non-tisse-01",
+    "file": "/images/sac-non-tisse/sac-01.webp",
+    "alt": "fabricant de sac non tissé publicitaire",
+    "ok": true,
+    "w": 1570,
+    "h": 599,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1570
+   },
+   {
+    "id": "sac-non-tisse-02",
+    "file": "/images/sac-non-tisse/sac-t-shirt-tnt.webp",
+    "alt": "sac t-shirt tnt",
+    "ok": true,
+    "w": 820,
+    "h": 820,
+    "vw": [
+     640
+    ],
+    "aw": 820
+   },
+   {
+    "id": "sac-non-tisse-03",
+    "file": "/images/sac-non-tisse/sac-en-polypropylene-perfore.webp",
+    "alt": "sac en polypropylène perforé",
+    "ok": true,
+    "w": 820,
+    "h": 820,
+    "vw": [
+     640
+    ],
+    "aw": 820
+   },
+   {
+    "id": "sac-non-tisse-04",
+    "file": "/images/sac-non-tisse/sacs-avec-anses-1024x1024.webp",
+    "alt": "",
+    "ok": true,
+    "w": 820,
+    "h": 820,
+    "vw": [
+     640
+    ],
+    "aw": 820
+   },
+   {
+    "id": "sac-non-tisse-05",
+    "file": "/images/sac-non-tisse/sac-05.webp",
+    "alt": "production de sac publicitaire",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-non-tisse-06",
+    "file": "/images/sac-non-tisse/fabricant-de-sac-non-tisse.webp",
+    "alt": "fabricant de sac non tissé",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-non-tisse-07",
+    "file": "/images/sac-non-tisse/sac-personnalise.webp",
+    "alt": "sac personnalisé",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-non-tisse-08",
+    "file": "/images/sac-non-tisse/producteur-de-sac-non-tisse.webp",
+    "alt": "producteur de sac non tissé",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-non-tisse-09",
+    "file": "/images/sac-non-tisse/sac-09.webp",
+    "alt": "sac avec publicité",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-non-tisse-10",
+    "file": "/images/sac-non-tisse/sac-10.webp",
+    "alt": "sac publicitaire",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-non-tisse-11",
+    "file": "/images/sac-non-tisse/sac-non-tisse.webp",
+    "alt": "sac non tissé",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-non-tisse-12",
+    "file": "/images/sac-non-tisse/sac-avec-logo.webp",
+    "alt": "sac avec logo",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-non-tisse-13",
+    "file": "/images/sac-non-tisse/sac-personnalise-2.webp",
+    "alt": "sac personnalisé",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   }
+  ],
+  "sac-tissu": [
+   {
+    "id": "sac-tissu-banner",
+    "file": "/images/sac-tissu/achat-sac-en-tissu-personnalise-maroc-casablanca.webp",
+    "alt": "achat sac en tissu personnalisé maroc casablanca",
+    "ok": true,
+    "w": 1200,
+    "h": 408,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "sac-tissu-01",
+    "file": "/images/sac-tissu/fabricant-de-sac-en-gros-maroc-casablanca.webp",
+    "alt": "fabricant de sac en gros maroc casablanca",
+    "ok": true,
+    "w": 340,
+    "h": 340,
+    "vw": [],
+    "aw": 340
+   },
+   {
+    "id": "sac-tissu-02",
+    "file": "/images/sac-tissu/production-de-sac-maroc.webp",
+    "alt": "production de sac maroc",
+    "ok": true,
+    "w": 225,
+    "h": 225,
+    "vw": [],
+    "aw": 225
+   },
+   {
+    "id": "sac-tissu-03",
+    "file": "/images/sac-tissu/sac-03.webp",
+    "alt": "producteur de sac publicitaire en tissu",
+    "ok": true,
+    "w": 480,
+    "h": 600,
+    "vw": [],
+    "aw": 480
+   },
+   {
+    "id": "sac-tissu-04",
+    "file": "/images/sac-tissu/sac-en-toile.webp",
+    "alt": "sac en toile",
+    "ok": true,
+    "w": 690,
+    "h": 850,
+    "vw": [
+     640
+    ],
+    "aw": 690
+   },
+   {
+    "id": "sac-tissu-05",
+    "file": "/images/sac-tissu/sac-05.webp",
+    "alt": "production sac publicitaire casablanca",
+    "ok": true,
+    "w": 236,
+    "h": 236,
+    "vw": [],
+    "aw": 236
+   },
+   {
+    "id": "sac-tissu-06",
+    "file": "/images/sac-tissu/sac-06.webp",
+    "alt": "sac publicitaire",
+    "ok": true,
+    "w": 300,
+    "h": 300,
+    "vw": [],
+    "aw": 300
+   },
+   {
+    "id": "sac-tissu-07",
+    "file": "/images/sac-tissu/producteur-de-sac-en-tissu-a-casablanca.webp",
+    "alt": "producteur de sac en tissu à casablanca",
+    "ok": true,
+    "w": 1200,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   },
+   {
+    "id": "sac-tissu-08",
+    "file": "/images/sac-tissu/sac-en-tissu.webp",
+    "alt": "sac en tissu",
+    "ok": true,
+    "w": 900,
+    "h": 1136,
+    "vw": [
+     640
+    ],
+    "aw": 900
+   },
+   {
+    "id": "sac-tissu-09",
+    "file": "/images/sac-tissu/sac-en-toile-2.webp",
+    "alt": "sac_en_toile",
+    "ok": true,
+    "w": 827,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 827
+   },
+   {
+    "id": "sac-tissu-10",
+    "file": "/images/sac-tissu/sac-sublime-maroc-casablanca.webp",
+    "alt": "sac sublimé maroc casablanca",
+    "ok": true,
+    "w": 701,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 701
+   },
+   {
+    "id": "sac-tissu-11",
+    "file": "/images/sac-tissu/sac-11.webp",
+    "alt": "production de sac en tissu publicitaire",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-tissu-12",
+    "file": "/images/sac-tissu/sac-12.webp",
+    "alt": "producteur_de_sac_publicitaire",
+    "ok": true,
+    "w": 954,
+    "h": 1200,
+    "vw": [
+     640
+    ],
+    "aw": 954
+   },
+   {
+    "id": "sac-tissu-13",
+    "file": "/images/sac-tissu/sac-avec-impression-casablanca-maroc.webp",
+    "alt": "sac avec impression casablanca maroc",
+    "ok": true,
+    "w": 946,
+    "h": 1037,
+    "vw": [
+     640
+    ],
+    "aw": 946
+   },
+   {
+    "id": "sac-tissu-14",
+    "file": "/images/sac-tissu/pochette-personnalise-maroc.webp",
+    "alt": "pochette personnalisé maroc",
+    "ok": true,
+    "w": 1280,
+    "h": 781,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "sac-tissu-15",
+    "file": "/images/sac-tissu/sac-pour-enfant-personnalise.webp",
+    "alt": "sac pour enfant personnalisé",
+    "ok": true,
+    "w": 1214,
+    "h": 1280,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1214
+   },
+   {
+    "id": "sac-tissu-16",
+    "file": "/images/sac-tissu/sac-16.webp",
+    "alt": "producteur de sac publicitaire en tissu",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-tissu-17",
+    "file": "/images/sac-tissu/sac-17.webp",
+    "alt": "production de sac en tissu publicitaire",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-tissu-18",
+    "file": "/images/sac-tissu/sac-18.webp",
+    "alt": "fabricant de sac en tissu publicitaire",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-tissu-19",
+    "file": "/images/sac-tissu/sac-19.webp",
+    "alt": "sac publicitaire casablanca",
+    "ok": true,
+    "w": 1152,
+    "h": 2048,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1152
+   },
+   {
+    "id": "sac-tissu-20",
+    "file": "/images/sac-tissu/sac-en-tissu-casablanca.webp",
+    "alt": "sac en tissu casablanca",
+    "ok": true,
+    "w": 1152,
+    "h": 2048,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1152
+   },
+   {
+    "id": "sac-tissu-21",
+    "file": "/images/sac-tissu/fabricant-de-sac-en-tissu-casablanca.webp",
+    "alt": "fabricant de sac en tissu casablanca",
+    "ok": true,
+    "w": 1152,
+    "h": 2048,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1152
+   },
+   {
+    "id": "sac-tissu-22",
+    "file": "/images/sac-tissu/sac-22.webp",
+    "alt": "sac publicitaire",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   },
+   {
+    "id": "sac-tissu-23",
+    "file": "/images/sac-tissu/sac-23.webp",
+    "alt": "fabricant de sac publicitaire en tissu",
+    "ok": true,
+    "w": 450,
+    "h": 600,
+    "vw": [],
+    "aw": 450
+   }
+  ],
+  "masques": [
+   {
+    "id": "masques-banner",
+    "file": "/images/masques/achat-masque-de-protection.webp",
+    "alt": "achat_masque_de_protection",
+    "ok": true,
+    "w": 1440,
+    "h": 700,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1440
+   },
+   {
+    "id": "masques-01",
+    "file": "/images/masques/afc8c507-e008-4903-acc4-2054fec5265f.webp",
+    "alt": "",
+    "ok": true,
+    "w": 742,
+    "h": 902,
+    "vw": [
+     640
+    ],
+    "aw": 742
+   },
+   {
+    "id": "masques-02",
+    "file": "/images/masques/vendeur-de-masque-en-gros.webp",
+    "alt": "",
+    "ok": true,
+    "w": 743,
+    "h": 904,
+    "vw": [
+     640
+    ],
+    "aw": 743
+   },
+   {
+    "id": "masques-03",
+    "file": "/images/masques/bavette-de-protection.webp",
+    "alt": "",
+    "ok": true,
+    "w": 746,
+    "h": 903,
+    "vw": [
+     640
+    ],
+    "aw": 746
+   },
+   {
+    "id": "masques-04",
+    "file": "/images/masques/vente-de-masque-pour-les-societe.webp",
+    "alt": "",
+    "ok": true,
+    "w": 742,
+    "h": 902,
+    "vw": [
+     640
+    ],
+    "aw": 742
+   },
+   {
+    "id": "masques-05",
+    "file": "/images/masques/masque-de-protection-maroc.webp",
+    "alt": "",
+    "ok": true,
+    "w": 741,
+    "h": 907,
+    "vw": [
+     640
+    ],
+    "aw": 741
+   },
+   {
+    "id": "masques-06",
+    "file": "/images/masques/masques-de-protection.webp",
+    "alt": "",
+    "ok": true,
+    "w": 739,
+    "h": 903,
+    "vw": [
+     640
+    ],
+    "aw": 739
+   },
+   {
+    "id": "masques-07",
+    "file": "/images/masques/vente-de-masque-en-gros.webp",
+    "alt": "",
+    "ok": true,
+    "w": 744,
+    "h": 905,
+    "vw": [
+     640
+    ],
+    "aw": 744
+   },
+   {
+    "id": "masques-08",
+    "file": "/images/masques/fabricant-de-masque-de-protection.webp",
+    "alt": "",
+    "ok": true,
+    "w": 739,
+    "h": 903,
+    "vw": [
+     640
+    ],
+    "aw": 739
+   },
+   {
+    "id": "masques-09",
+    "file": "/images/masques/production-de-masque-au-maroc.webp",
+    "alt": "",
+    "ok": true,
+    "w": 740,
+    "h": 905,
+    "vw": [
+     640
+    ],
+    "aw": 740
+   },
+   {
+    "id": "masques-10",
+    "file": "/images/masques/masques-pour-les-societes.webp",
+    "alt": "",
+    "ok": true,
+    "w": 743,
+    "h": 903,
+    "vw": [
+     640
+    ],
+    "aw": 743
+   },
+   {
+    "id": "masques-11",
+    "file": "/images/masques/masques-anti-covid.webp",
+    "alt": "",
+    "ok": true,
+    "w": 743,
+    "h": 902,
+    "vw": [
+     640
+    ],
+    "aw": 743
+   },
+   {
+    "id": "masques-12",
+    "file": "/images/masques/masques-contre-le-virus.webp",
+    "alt": "",
+    "ok": true,
+    "w": 741,
+    "h": 902,
+    "vw": [
+     640
+    ],
+    "aw": 741
+   },
+   {
+    "id": "masques-13",
+    "file": "/images/masques/bavette-reutilisable.webp",
+    "alt": "",
+    "ok": true,
+    "w": 737,
+    "h": 744,
+    "vw": [
+     640
+    ],
+    "aw": 737
+   },
+   {
+    "id": "masques-14",
+    "file": "/images/masques/masque-personnalise.webp",
+    "alt": "",
+    "ok": true,
+    "w": 734,
+    "h": 740,
+    "vw": [
+     640
+    ],
+    "aw": 734
+   },
+   {
+    "id": "masques-15",
+    "file": "/images/masques/masque-pour-proteger-le-visage.webp",
+    "alt": "",
+    "ok": true,
+    "w": 743,
+    "h": 741,
+    "vw": [
+     640
+    ],
+    "aw": 743
+   },
+   {
+    "id": "masques-16",
+    "file": "/images/masques/vente-de-masque-maroc.webp",
+    "alt": "",
+    "ok": true,
+    "w": 734,
+    "h": 742,
+    "vw": [
+     640
+    ],
+    "aw": 734
+   },
+   {
+    "id": "masques-17",
+    "file": "/images/masques/masque-de-protection-casablanca-maroc.webp",
+    "alt": "masque de protection casablanca maroc",
+    "ok": true,
+    "w": 1200,
+    "h": 1200,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1200
+   }
+  ],
+  "protection": [
+   {
+    "id": "protection-banner",
+    "file": "/images/protection/combinaison-de-protection-export.webp",
+    "alt": "combinaison_de_protection_export",
+    "ok": true,
+    "w": 1280,
+    "h": 577,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "protection-01",
+    "file": "/images/protection/combinaison-de-protection-unique-chimique-et-particules.webp",
+    "alt": "",
+    "ok": true,
+    "w": 400,
+    "h": 400,
+    "vw": [],
+    "aw": 400
+   },
+   {
+    "id": "protection-02",
+    "file": "/images/protection/sur-blouse-a-usage-unique.webp",
+    "alt": "sur blouse à usage unique",
+    "ok": true,
+    "w": 364,
+    "h": 364,
+    "vw": [],
+    "aw": 364
+   },
+   {
+    "id": "protection-03",
+    "file": "/images/protection/charlotte-de-protection.webp",
+    "alt": "charlotte de protection",
+    "ok": true,
+    "w": 858,
+    "h": 734,
+    "vw": [
+     640
+    ],
+    "aw": 858
+   }
+  ],
+  "partenaires-mode": [
+   {
+    "id": "partenaires-mode-banner",
+    "file": "/images/partenaires-mode/atelier-confection-textile-maroc.webp",
+    "alt": "atelier-confection-textile-maroc",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   },
+   {
+    "id": "partenaires-mode-01",
+    "file": "/images/partenaires-mode/timeless-photography-768x616.webp",
+    "alt": "",
+    "ok": true,
+    "w": 2000,
+    "h": 1606,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-02",
+    "file": "/images/partenaires-mode/cadeau-pour-femme-enceinte-casa.webp",
+    "alt": "cadeau_pour_femme_enceinte_casa",
+    "ok": true,
+    "w": 2000,
+    "h": 1429,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-03",
+    "file": "/images/partenaires-mode/photo-pour-enfant.webp",
+    "alt": "photo_pour_enfant",
+    "ok": true,
+    "w": 2000,
+    "h": 2800,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-04",
+    "file": "/images/partenaires-mode/shooting-cake-smash-casablanca.webp",
+    "alt": "shooting_cake_smash_casablanca",
+    "ok": true,
+    "w": 2000,
+    "h": 2800,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-05",
+    "file": "/images/partenaires-mode/photo-artistique-femme-enceinte.webp",
+    "alt": "photo_artistique_femme_enceinte",
+    "ok": true,
+    "w": 2000,
+    "h": 2800,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-06",
+    "file": "/images/partenaires-mode/cosywear-1-2048x2048.webp",
+    "alt": "",
+    "ok": true,
+    "w": 404,
+    "h": 312,
+    "vw": [],
+    "aw": 404
+   },
+   {
+    "id": "partenaires-mode-07",
+    "file": "/images/partenaires-mode/production-pyjama.webp",
+    "alt": "production pyjama",
+    "ok": true,
+    "w": 1066,
+    "h": 1599,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1066
+   },
+   {
+    "id": "partenaires-mode-08",
+    "file": "/images/partenaires-mode/production.webp",
+    "alt": "production",
+    "ok": true,
+    "w": 1080,
+    "h": 1080,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1080
+   },
+   {
+    "id": "partenaires-mode-09",
+    "file": "/images/partenaires-mode/production-de-pyjama.webp",
+    "alt": "production_de_pyjama",
+    "ok": true,
+    "w": 952,
+    "h": 1186,
+    "vw": [
+     640
+    ],
+    "aw": 952
+   },
+   {
+    "id": "partenaires-mode-10",
+    "file": "/images/partenaires-mode/production-de-vetement.webp",
+    "alt": "production_de_vetement",
+    "ok": true,
+    "w": 902,
+    "h": 1112,
+    "vw": [
+     640
+    ],
+    "aw": 902
+   },
+   {
+    "id": "partenaires-mode-11",
+    "file": "/images/partenaires-mode/confection-de-pyjama-maroc.webp",
+    "alt": "confection de pyjama maroc",
+    "ok": true,
+    "w": 261,
+    "h": 261,
+    "vw": [],
+    "aw": 261
+   },
+   {
+    "id": "partenaires-mode-12",
+    "file": "/images/partenaires-mode/societe-de-confection-maroc.webp",
+    "alt": "société de confection maroc",
+    "ok": true,
+    "w": 1708,
+    "h": 2560,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-13",
+    "file": "/images/partenaires-mode/production-de-pyjama-2.webp",
+    "alt": "production_de_pyjama",
+    "ok": true,
+    "w": 1708,
+    "h": 2560,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-14",
+    "file": "/images/partenaires-mode/pyjama-produite-au-maroc.webp",
+    "alt": "pyjama produite au maroc",
+    "ok": true,
+    "w": 1708,
+    "h": 2560,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-15",
+    "file": "/images/partenaires-mode/societe-textile.webp",
+    "alt": "société textile",
+    "ok": true,
+    "w": 1708,
+    "h": 2560,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-16",
+    "file": "/images/partenaires-mode/societe-de-textile-maroc.webp",
+    "alt": "société de textile maroc",
+    "ok": true,
+    "w": 1708,
+    "h": 2560,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-17",
+    "file": "/images/partenaires-mode/collaboration-yassine-morabit.webp",
+    "alt": "",
+    "ok": true,
+    "w": 1280,
+    "h": 853,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "partenaires-mode-18",
+    "file": "/images/partenaires-mode/noir-collaboration-yassine-morabite.webp",
+    "alt": "noir collaboration yassine morabite",
+    "ok": true,
+    "w": 206,
+    "h": 309,
+    "vw": [],
+    "aw": 206
+   },
+   {
+    "id": "partenaires-mode-19",
+    "file": "/images/partenaires-mode/fabricant-de-textile-au-maroc.webp",
+    "alt": "fabricant de textile au maroc",
+    "ok": true,
+    "w": 622,
+    "h": 960,
+    "vw": [],
+    "aw": 622
+   },
+   {
+    "id": "partenaires-mode-20",
+    "file": "/images/partenaires-mode/fabricant-de-textile-maroc.webp",
+    "alt": "fabricant de textile maroc",
+    "ok": true,
+    "w": 1048,
+    "h": 1310,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1048
+   },
+   {
+    "id": "partenaires-mode-21",
+    "file": "/images/partenaires-mode/atelier-fabricant-maroc-textile.webp",
+    "alt": "atelier fabricant maroc textile",
+    "ok": true,
+    "w": 720,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "partenaires-mode-22",
+    "file": "/images/partenaires-mode/atelier-de-confection.webp",
+    "alt": "atelier-de-confection",
+    "ok": true,
+    "w": 1392,
+    "h": 1392,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1392
+   },
+   {
+    "id": "partenaires-mode-23",
+    "file": "/images/partenaires-mode/producteur-textile-mode-maroc.webp",
+    "alt": "producteur textile mode maroc",
+    "ok": true,
+    "w": 640,
+    "h": 960,
+    "vw": [],
+    "aw": 640
+   },
+   {
+    "id": "partenaires-mode-24",
+    "file": "/images/partenaires-mode/ti-shirt-production-maroc.webp",
+    "alt": "ti-shirt production maroc",
+    "ok": true,
+    "w": 606,
+    "h": 960,
+    "vw": [],
+    "aw": 606
+   },
+   {
+    "id": "partenaires-mode-25",
+    "file": "/images/partenaires-mode/fabrication-textile-casablanca-maroc.webp",
+    "alt": "fabrication textile casablanca maroc",
+    "ok": true,
+    "w": 1413,
+    "h": 2048,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1413
+   },
+   {
+    "id": "partenaires-mode-26",
+    "file": "/images/partenaires-mode/fabricant-textile-mode-casablanca.webp",
+    "alt": "fabricant textile mode casablanca",
+    "ok": true,
+    "w": 772,
+    "h": 960,
+    "vw": [
+     640
+    ],
+    "aw": 772
+   },
+   {
+    "id": "partenaires-mode-27",
+    "file": "/images/partenaires-mode/production-de-vetement-mode.webp",
+    "alt": "production-de-vetement-mode",
+    "ok": true,
+    "w": 1357,
+    "h": 2048,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1357
+   },
+   {
+    "id": "partenaires-mode-28",
+    "file": "/images/partenaires-mode/collaboration-yassine-morabite.webp",
+    "alt": "collaboration yassine morabite",
+    "ok": true,
+    "w": 959,
+    "h": 959,
+    "vw": [
+     640
+    ],
+    "aw": 959
+   },
+   {
+    "id": "partenaires-mode-29",
+    "file": "/images/partenaires-mode/collaboration-yassine-morabite-2.webp",
+    "alt": "collaboration yassine morabite",
+    "ok": true,
+    "w": 960,
+    "h": 540,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "partenaires-mode-30",
+    "file": "/images/partenaires-mode/fabricant-de-textile-maroc-2.webp",
+    "alt": "fabricant de textile maroc",
+    "ok": true,
+    "w": 720,
+    "h": 960,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "partenaires-mode-31",
+    "file": "/images/partenaires-mode/fabricant-mode-maroc.webp",
+    "alt": "fabricant mode maroc",
+    "ok": true,
+    "w": 960,
+    "h": 960,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "partenaires-mode-32",
+    "file": "/images/partenaires-mode/collaboration-yassine-morabite-3.webp",
+    "alt": "collaboration yassine morabite",
+    "ok": true,
+    "w": 1080,
+    "h": 1320,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1080
+   },
+   {
+    "id": "partenaires-mode-33",
+    "file": "/images/partenaires-mode/creation-de-model-textile.webp",
+    "alt": "création de model textile",
+    "ok": true,
+    "w": 960,
+    "h": 634,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "partenaires-mode-34",
+    "file": "/images/partenaires-mode/production-textile-yassine-morabite.webp",
+    "alt": "production textile yassine morabite",
+    "ok": true,
+    "w": 636,
+    "h": 960,
+    "vw": [],
+    "aw": 636
+   },
+   {
+    "id": "partenaires-mode-35",
+    "file": "/images/partenaires-mode/ti-shirt-fabricant-casablanca-maroc.webp",
+    "alt": "ti-shirt fabricant casablanca maroc",
+    "ok": true,
+    "w": 720,
+    "h": 960,
+    "vw": [
+     640
+    ],
+    "aw": 720
+   },
+   {
+    "id": "partenaires-mode-36",
+    "file": "/images/partenaires-mode/collaboration-amine-bendrouich-yb-company.webp",
+    "alt": "",
+    "ok": true,
+    "w": 925,
+    "h": 1280,
+    "vw": [
+     640
+    ],
+    "aw": 925
+   },
+   {
+    "id": "partenaires-mode-37",
+    "file": "/images/partenaires-mode/fabricant-mode-textile.webp",
+    "alt": "fabricant-mode-textile",
+    "ok": true,
+    "w": 378,
+    "h": 567,
+    "vw": [],
+    "aw": 378
+   },
+   {
+    "id": "partenaires-mode-38",
+    "file": "/images/partenaires-mode/producteur-de-vetement-de-mode-au-maroc.webp",
+    "alt": "producteur de vetement de mode au maroc",
+    "ok": true,
+    "w": 750,
+    "h": 1090,
+    "vw": [
+     640
+    ],
+    "aw": 750
+   },
+   {
+    "id": "partenaires-mode-39",
+    "file": "/images/partenaires-mode/production-vetement-fashion-maroc.webp",
+    "alt": "production vetement fashion maroc",
+    "ok": true,
+    "w": 480,
+    "h": 480,
+    "vw": [],
+    "aw": 480
+   },
+   {
+    "id": "partenaires-mode-40",
+    "file": "/images/partenaires-mode/textile-atelier-maroc.webp",
+    "alt": "textile atelier maroc",
+    "ok": true,
+    "w": 800,
+    "h": 533,
+    "vw": [
+     640
+    ],
+    "aw": 800
+   },
+   {
+    "id": "partenaires-mode-41",
+    "file": "/images/partenaires-mode/fabricant-textile-mode-casblanca-maroc.webp",
+    "alt": "fabricant textile mode casblanca maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1500,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "partenaires-mode-42",
+    "file": "/images/partenaires-mode/collaboration-jnoun-et-yb-company.webp",
+    "alt": "collaboration jnoun et yb company",
+    "ok": true,
+    "w": 1600,
+    "h": 1600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-43",
+    "file": "/images/partenaires-mode/textile-maroc-casablanca.webp",
+    "alt": "textile maroc casablanca",
+    "ok": true,
+    "w": 2000,
+    "h": 3000,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-44",
+    "file": "/images/partenaires-mode/fabricant-de-mode.webp",
+    "alt": "fabricant de mode",
+    "ok": true,
+    "w": 728,
+    "h": 1097,
+    "vw": [
+     640
+    ],
+    "aw": 728
+   },
+   {
+    "id": "partenaires-mode-45",
+    "file": "/images/partenaires-mode/producteur-de-vetement-mode.webp",
+    "alt": "producteur de vetement mode",
+    "ok": true,
+    "w": 1000,
+    "h": 1558,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "partenaires-mode-46",
+    "file": "/images/partenaires-mode/atelier-de-textile-maroc.webp",
+    "alt": "atelier de textile maroc",
+    "ok": true,
+    "w": 2000,
+    "h": 1435,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-47",
+    "file": "/images/partenaires-mode/atelier-de-confection-maroc.webp",
+    "alt": "atelier de confection maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1558,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "partenaires-mode-48",
+    "file": "/images/partenaires-mode/atelier-de-fabrication-textile.webp",
+    "alt": "atelier de fabrication textile",
+    "ok": true,
+    "w": 2000,
+    "h": 1435,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-49",
+    "file": "/images/partenaires-mode/fabricant-de-textile-au-maroc-2.webp",
+    "alt": "fabricant de textile au maroc",
+    "ok": true,
+    "w": 2000,
+    "h": 2800,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-mode-50",
+    "file": "/images/partenaires-mode/sshokrae-jnoun-0623-edit.webp",
+    "alt": "sshokrae_jnoun-0623-Edit",
+    "ok": true,
+    "w": 1072,
+    "h": 1500,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1072
+   },
+   {
+    "id": "partenaires-mode-51",
+    "file": "/images/partenaires-mode/producteur-de-vetement-maroc.webp",
+    "alt": "producteur de vetement maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1500,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "partenaires-mode-52",
+    "file": "/images/partenaires-mode/habille-textile-maroc.webp",
+    "alt": "habille textile maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1500,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "partenaires-mode-53",
+    "file": "/images/partenaires-mode/producteur-textile-maroc.webp",
+    "alt": "producteur textile maroc",
+    "ok": true,
+    "w": 1000,
+    "h": 1500,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "partenaires-mode-54",
+    "file": "/images/partenaires-mode/collaboration-hashtag-et-yb-company.webp",
+    "alt": "collaboration hashtag et yb company",
+    "ok": true,
+    "w": 620,
+    "h": 350,
+    "vw": [],
+    "aw": 620
+   },
+   {
+    "id": "partenaires-mode-55",
+    "file": "/images/partenaires-mode/production-vetement-textile.webp",
+    "alt": "production vetement textile",
+    "ok": true,
+    "w": 576,
+    "h": 960,
+    "vw": [],
+    "aw": 576
+   },
+   {
+    "id": "partenaires-mode-56",
+    "file": "/images/partenaires-mode/atelier-de-confection-2.webp",
+    "alt": "atelier de confection",
+    "ok": true,
+    "w": 587,
+    "h": 387,
+    "vw": [],
+    "aw": 587
+   },
+   {
+    "id": "partenaires-mode-57",
+    "file": "/images/partenaires-mode/fabricant-de-textile-maroc-3.webp",
+    "alt": "fabricant de textile maroc",
+    "ok": true,
+    "w": 960,
+    "h": 540,
+    "vw": [
+     640
+    ],
+    "aw": 960
+   },
+   {
+    "id": "partenaires-mode-58",
+    "file": "/images/partenaires-mode/producteur-textile.webp",
+    "alt": "producteur textile",
+    "ok": true,
+    "w": 478,
+    "h": 473,
+    "vw": [],
+    "aw": 478
+   },
+   {
+    "id": "partenaires-mode-59",
+    "file": "/images/partenaires-mode/atelier-de-production-de-vetement.webp",
+    "alt": "atelier de production de vetement",
+    "ok": true,
+    "w": 478,
+    "h": 448,
+    "vw": [],
+    "aw": 478
+   },
+   {
+    "id": "partenaires-mode-60",
+    "file": "/images/partenaires-mode/photo-hashtag06.webp",
+    "alt": "Photo Hashtag06",
+    "ok": true,
+    "w": 541,
+    "h": 960,
+    "vw": [],
+    "aw": 541
+   },
+   {
+    "id": "partenaires-mode-61",
+    "file": "/images/partenaires-mode/photo-hashtag07.webp",
+    "alt": "Photo Hashtag07",
+    "ok": true,
+    "w": 800,
+    "h": 800,
+    "vw": [
+     640
+    ],
+    "aw": 800
+   }
+  ],
+  "confection-sport": [
+   {
+    "id": "confection-sport-banner",
+    "file": "/images/confection-sport/atelier-confection-textile-maroc.webp",
+    "alt": "atelier-confection-textile-maroc",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   },
+   {
+    "id": "confection-sport-01",
+    "file": "/images/confection-sport/collaboration-tribord-yb-company.webp",
+    "alt": "collaboration tribord yb company",
+    "ok": true,
+    "w": 630,
+    "h": 550,
+    "vw": [],
+    "aw": 630
+   },
+   {
+    "id": "confection-sport-02",
+    "file": "/images/confection-sport/collaboration-yb-company.webp",
+    "alt": "COLLABORATION YB COMPANY",
+    "ok": true,
+    "w": 201,
+    "h": 201,
+    "vw": [],
+    "aw": 201
+   },
+   {
+    "id": "confection-sport-03",
+    "file": "/images/confection-sport/collaboration-ntk-ybcompany.webp",
+    "alt": "collaboration ntk ybcompany",
+    "ok": true,
+    "w": 240,
+    "h": 240,
+    "vw": [],
+    "aw": 240
+   },
+   {
+    "id": "confection-sport-04",
+    "file": "/images/confection-sport/prideordie-collaboration-yb-company-768x755.webp",
+    "alt": "",
+    "ok": true,
+    "w": 299,
+    "h": 294,
+    "vw": [],
+    "aw": 299
+   },
+   {
+    "id": "confection-sport-05",
+    "file": "/images/confection-sport/logo-tibu-collaboration-ybcompany-1024x1024.webp",
+    "alt": "",
+    "ok": true,
+    "w": 300,
+    "h": 300,
+    "vw": [],
+    "aw": 300
+   }
+  ],
+  "partenaires-pub": [
+   {
+    "id": "partenaires-pub-banner",
+    "file": "/images/partenaires-signaletique/atelier-confection-textile-maroc.webp",
+    "alt": "atelier-confection-textile-maroc",
+    "ok": true,
+    "w": 1418,
+    "h": 600,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1418
+   },
+   {
+    "id": "partenaires-pub-01",
+    "file": "/images/partenaires-signaletique/logo-01.webp",
+    "alt": "industrie publicitaire",
+    "ok": true,
+    "w": 2000,
+    "h": 2000,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-pub-02",
+    "file": "/images/partenaires-signaletique/logo-02.webp",
+    "alt": "publicité maroc",
+    "ok": true,
+    "w": 750,
+    "h": 714,
+    "vw": [
+     640
+    ],
+    "aw": 750
+   },
+   {
+    "id": "partenaires-pub-03",
+    "file": "/images/partenaires-signaletique/f1.webp",
+    "alt": "",
+    "ok": true,
+    "w": 250,
+    "h": 253,
+    "vw": [],
+    "aw": 250
+   },
+   {
+    "id": "partenaires-pub-04",
+    "file": "/images/partenaires-signaletique/5a201cf29be99.webp",
+    "alt": "",
+    "ok": true,
+    "w": 2000,
+    "h": 2000,
+    "vw": [
+     640,
+     1024,
+     1600
+    ],
+    "aw": 1600
+   },
+   {
+    "id": "partenaires-pub-05",
+    "file": "/images/partenaires-signaletique/beach-flag.webp",
+    "alt": "beach flag",
+    "ok": true,
+    "w": 1000,
+    "h": 1000,
+    "vw": [
+     640
+    ],
+    "aw": 1000
+   },
+   {
+    "id": "partenaires-pub-06",
+    "file": "/images/partenaires-signaletique/logo-06.webp",
+    "alt": "publicité casablanca",
+    "ok": true,
+    "w": 256,
+    "h": 256,
+    "vw": [],
+    "aw": 256
+   },
+   {
+    "id": "partenaires-pub-07",
+    "file": "/images/partenaires-signaletique/photo.webp",
+    "alt": "",
+    "ok": true,
+    "w": 900,
+    "h": 900,
+    "vw": [
+     640
+    ],
+    "aw": 900
+   },
+   {
+    "id": "partenaires-pub-08",
+    "file": "/images/partenaires-signaletique/maxresdefault.webp",
+    "alt": "",
+    "ok": true,
+    "w": 1280,
+    "h": 720,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1280
+   },
+   {
+    "id": "partenaires-pub-09",
+    "file": "/images/partenaires-signaletique/aspen.webp",
+    "alt": "",
+    "ok": true,
+    "w": 900,
+    "h": 900,
+    "vw": [
+     640
+    ],
+    "aw": 900
+   },
+   {
+    "id": "partenaires-pub-10",
+    "file": "/images/partenaires-signaletique/logo-10.webp",
+    "alt": "publicité par objet",
+    "ok": true,
+    "w": 1181,
+    "h": 1181,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1181
+   },
+   {
+    "id": "partenaires-pub-11",
+    "file": "/images/partenaires-signaletique/deloitte-logo.webp",
+    "alt": "",
+    "ok": true,
+    "w": 256,
+    "h": 256,
+    "vw": [],
+    "aw": 256
+   },
+   {
+    "id": "partenaires-pub-12",
+    "file": "/images/partenaires-signaletique/yamed.webp",
+    "alt": "",
+    "ok": true,
+    "w": 256,
+    "h": 256,
+    "vw": [],
+    "aw": 256
+   },
+   {
+    "id": "partenaires-pub-13",
+    "file": "/images/partenaires-signaletique/25-270x-dotco-memben-images-publicize.webp",
+    "alt": "",
+    "ok": true,
+    "w": 270,
+    "h": 270,
+    "vw": [],
+    "aw": 270
+   },
+   {
+    "id": "partenaires-pub-14",
+    "file": "/images/partenaires-signaletique/bl.webp",
+    "alt": "",
+    "ok": true,
+    "w": 800,
+    "h": 503,
+    "vw": [
+     640
+    ],
+    "aw": 800
+   },
+   {
+    "id": "partenaires-pub-15",
+    "file": "/images/partenaires-signaletique/toyota.webp",
+    "alt": "",
+    "ok": true,
+    "w": 300,
+    "h": 200,
+    "vw": [],
+    "aw": 300
+   },
+   {
+    "id": "partenaires-pub-16",
+    "file": "/images/partenaires-signaletique/logo-fond-blanc-arkeos-e1516034165493.webp",
+    "alt": "",
+    "ok": true,
+    "w": 137,
+    "h": 218,
+    "vw": [],
+    "aw": 137
+   },
+   {
+    "id": "partenaires-pub-17",
+    "file": "/images/partenaires-signaletique/14238207-338526243204885-4835528141643561868-n.webp",
+    "alt": "",
+    "ok": true,
+    "w": 959,
+    "h": 959,
+    "vw": [
+     640
+    ],
+    "aw": 959
+   },
+   {
+    "id": "partenaires-pub-18",
+    "file": "/images/partenaires-signaletique/256x256bb.webp",
+    "alt": "",
+    "ok": true,
+    "w": 256,
+    "h": 256,
+    "vw": [],
+    "aw": 256
+   },
+   {
+    "id": "partenaires-pub-19",
+    "file": "/images/partenaires-signaletique/download.webp",
+    "alt": "",
+    "ok": true,
+    "w": 197,
+    "h": 255,
+    "vw": [],
+    "aw": 197
+   },
+   {
+    "id": "partenaires-pub-20",
+    "file": "/images/partenaires-signaletique/mellow-deco-logo-black.webp",
+    "alt": "",
+    "ok": true,
+    "w": 872,
+    "h": 701,
+    "vw": [
+     640
+    ],
+    "aw": 872
+   }
+  ],
+  "contact": [
+   {
+    "id": "contact-banner",
+    "file": "/images/contact/atelier-de-confection.webp",
+    "alt": "atelier-de-confection",
+    "ok": true,
+    "w": 1349,
+    "h": 300,
+    "vw": [
+     640,
+     1024
+    ],
+    "aw": 1349
+   }
+  ]
+ },
+ "slots": {
+  "fabric-poster": {
+   "id": "gen-fabric",
+   "file": "/images/generated/fabric-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "36% 50%",
+   "w": 1600,
+   "h": 873,
+   "stem": "/images/generated/fabric",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "og-default": {
+   "id": "gen-home-hero",
+   "file": "/images/generated/home-hero-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "40% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/home-hero",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "home-manifesto-1": {
+   "id": "gen-atelier-couture",
+   "file": "/images/generated/atelier-couture-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "36% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/atelier-couture",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "home-manifesto-2": {
+   "id": "gen-design-table",
+   "file": "/images/generated/design-table-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "66% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/design-table",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "home-manifesto-3": {
+   "id": "gen-controle-qualite",
+   "file": "/images/generated/controle-qualite-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "62% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/controle-qualite",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "home-activity-textile": {
+   "id": "gen-sport-kits",
+   "file": "/images/generated/sport-kits-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "62% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sport-kits",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "home-activity-affiche": {
+   "id": "gen-grand-format",
+   "file": "/images/generated/grand-format-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "52% 55%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/grand-format",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "home-activity-sacherie": {
+   "id": "gen-sacs",
+   "file": "/images/generated/sacs-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "50% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sacs",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "home-activity-partenaires": {
+   "id": "gen-streetwear",
+   "file": "/images/generated/streetwear-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "45% 55%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/streetwear",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "philosophie-intro": {
+   "id": "philosophie-banner",
+   "file": "/images/philosophie/sublimation-textile-maroc.webp",
+   "alt": "sublimation textile maroc",
+   "ok": true,
+   "w": 1418,
+   "h": 600,
+   "vw": [
+    640,
+    1024
+   ],
+   "aw": 1418
+  },
+  "bm-textile": {
+   "id": "mode-03",
+   "file": "/images/mode/usine-de-confection-casablanca.webp",
+   "alt": "usine de confection casablanca",
+   "ok": true,
+   "w": 830,
+   "h": 960,
+   "vw": [
+    640
+   ],
+   "aw": 830
+  },
+  "bm-publicitaire": {
+   "id": "grand-format-05",
+   "file": "/images/grand-format/impression-05.webp",
+   "alt": "affiche publicitaire",
+   "ok": true,
+   "w": 1200,
+   "h": 900,
+   "vw": [
+    640,
+    1024
+   ],
+   "aw": 1200
+  },
+  "bm-affichage": {
+   "id": "structures-08",
+   "file": "/images/structures/support-08.webp",
+   "alt": "beach flag, drapeau publicité, kakémono",
+   "ok": true,
+   "w": 1564,
+   "h": 1564,
+   "vw": [
+    640,
+    1024
+   ],
+   "aw": 1564
+  },
+  "va-intro": {
+   "id": "mode-02",
+   "file": "/images/mode/atelier-de-confection-mode.webp",
+   "alt": "atelier de confection mode",
+   "ok": true,
+   "w": 750,
+   "h": 949,
+   "vw": [
+    640
+   ],
+   "aw": 750
+  },
+  "va-step-1": {
+   "id": "mode-07",
+   "file": "/images/mode/fabricant-de-textile-au-maroc.webp",
+   "alt": "fabricant de textile au maroc",
+   "ok": true,
+   "w": 622,
+   "h": 960,
+   "vw": [],
+   "aw": 622
+  },
+  "va-step-2": {
+   "id": "mode-08",
+   "file": "/images/mode/fabricant-de-textile-maroc.webp",
+   "alt": "fabricant de textile maroc",
+   "ok": true,
+   "w": 720,
+   "h": 960,
+   "vw": [
+    640
+   ],
+   "aw": 720
+  },
+  "va-step-3": {
+   "id": "mode-10",
+   "file": "/images/mode/fabricant-textile-mode-casablanca.webp",
+   "alt": "fabricant textile mode casablanca",
+   "ok": true,
+   "w": 772,
+   "h": 960,
+   "vw": [
+    640
+   ],
+   "aw": 772
+  },
+  "va-step-4": {
+   "id": "mode-03",
+   "file": "/images/mode/usine-de-confection-casablanca.webp",
+   "alt": "usine de confection casablanca",
+   "ok": true,
+   "w": 830,
+   "h": 960,
+   "vw": [
+    640
+   ],
+   "aw": 830
+  },
+  "va-step-5": {
+   "id": "mode-06",
+   "file": "/images/mode/producteur-de-vetement-casablanca.webp",
+   "alt": "producteur de vêtement casablanca",
+   "ok": true,
+   "w": 605,
+   "h": 1280,
+   "vw": [],
+   "aw": 605
+  },
+  "va-atout-1": {
+   "id": "gen-controle-qualite",
+   "file": "/images/generated/controle-qualite-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "62% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/controle-qualite",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "va-atout-2": {
+   "id": "gen-controle-qualite",
+   "file": "/images/generated/controle-qualite-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "62% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/controle-qualite",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "va-atout-3": {
+   "id": "gen-controle-qualite",
+   "file": "/images/generated/controle-qualite-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "62% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/controle-qualite",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "va-atout-4": {
+   "id": "gen-controle-qualite",
+   "file": "/images/generated/controle-qualite-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "62% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/controle-qualite",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "sc-intro": {
+   "id": "sport-casual-09",
+   "file": "/images/sport-casual/societe-de-textile-maroc.webp",
+   "alt": "société de textile maroc",
+   "ok": true,
+   "w": 960,
+   "h": 720,
+   "vw": [
+    640
+   ],
+   "aw": 960
+  },
+  "mode-stylisme": {
+   "id": "gen-design-table",
+   "file": "/images/generated/design-table-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "66% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/design-table",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "mode-modelisme": {
+   "id": "gen-design-table",
+   "file": "/images/generated/design-table-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "66% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/design-table",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "mode-traitement": {
+   "id": "gen-sublimation",
+   "file": "/images/generated/sublimation-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "68% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sublimation",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "mode-confection": {
+   "id": "gen-atelier-couture",
+   "file": "/images/generated/atelier-couture-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "36% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/atelier-couture",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "mode-produit": {
+   "id": "mode-04",
+   "file": "/images/mode/collaboration-yassine-morabite-2.webp",
+   "alt": "collaboration yassine morabite",
+   "ok": true,
+   "w": 959,
+   "h": 959,
+   "vw": [
+    640
+   ],
+   "aw": 959
+  },
+  "am-facades": {
+   "id": "amenagements-banner",
+   "file": "/images/amenagements/amenagement-d-espace-plv-kakemono.webp",
+   "alt": "aménagement d'espace plv kakémono",
+   "ok": true,
+   "w": 1418,
+   "h": 600,
+   "vw": [
+    640,
+    1024
+   ],
+   "aw": 1418
+  },
+  "prot-visiere": {
+   "id": "gen-protection",
+   "file": "/images/generated/protection-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "45% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/protection",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "sacherie-slide-1": {
+   "id": "gen-sacs",
+   "file": "/images/generated/sacs-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "50% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sacs",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "sacherie-slide-2": {
+   "id": "sac-non-tisse-01",
+   "file": "/images/sac-non-tisse/sac-01.webp",
+   "alt": "fabricant de sac non tissé publicitaire",
+   "ok": true,
+   "w": 1570,
+   "h": 599,
+   "vw": [
+    640,
+    1024
+   ],
+   "aw": 1570
+  },
+  "sacherie-slide-3": {
+   "id": "sac-tissu-07",
+   "file": "/images/sac-tissu/producteur-de-sac-en-tissu-a-casablanca.webp",
+   "alt": "producteur de sac en tissu à casablanca",
+   "ok": true,
+   "w": 1200,
+   "h": 1200,
+   "vw": [
+    640,
+    1024
+   ],
+   "aw": 1200
+  }
+ },
+ "heroes": {
+  "home": {
+   "id": "gen-home-hero",
+   "file": "/images/generated/home-hero-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "40% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/home-hero",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "philosophie": {
+   "id": "gen-fabric",
+   "file": "/images/generated/fabric-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "36% 50%",
+   "w": 1600,
+   "h": 873,
+   "stem": "/images/generated/fabric",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "business-model": {
+   "id": "gen-fabric",
+   "file": "/images/generated/fabric-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "36% 50%",
+   "w": 1600,
+   "h": 873,
+   "stem": "/images/generated/fabric",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "valeur-ajoutee": {
+   "id": "gen-atelier-couture",
+   "file": "/images/generated/atelier-couture-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "36% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/atelier-couture",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "sport-casual": {
+   "id": "gen-sport-kits",
+   "file": "/images/generated/sport-kits-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "62% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sport-kits",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "mode": {
+   "id": "gen-streetwear",
+   "file": "/images/generated/streetwear-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "45% 55%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/streetwear",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "sublimation": {
+   "id": "gen-sublimation",
+   "file": "/images/generated/sublimation-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "68% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sublimation",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "grand-format": {
+   "id": "gen-grand-format",
+   "file": "/images/generated/grand-format-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "52% 55%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/grand-format",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "amenagements": {
+   "id": "gen-stand-expo",
+   "file": "/images/generated/stand-expo-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "45% 55%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/stand-expo",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "structures": {
+   "id": "gen-stand-expo",
+   "file": "/images/generated/stand-expo-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "45% 55%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/stand-expo",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "sacherie": {
+   "id": "gen-sacs",
+   "file": "/images/generated/sacs-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "50% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sacs",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "sac-non-tisse": {
+   "id": "gen-sacs",
+   "file": "/images/generated/sacs-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "50% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sacs",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "sac-tissu": {
+   "id": "gen-sublimation",
+   "file": "/images/generated/sublimation-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "68% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sublimation",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "masques": {
+   "id": "gen-protection",
+   "file": "/images/generated/protection-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "45% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/protection",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "protection": {
+   "id": "gen-protection",
+   "file": "/images/generated/protection-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "45% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/protection",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "partenaires-mode": {
+   "id": "gen-streetwear",
+   "file": "/images/generated/streetwear-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "45% 55%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/streetwear",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "confection-sport": {
+   "id": "gen-sport-kits",
+   "file": "/images/generated/sport-kits-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "62% 50%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/sport-kits",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "partenaires-pub": {
+   "id": "gen-stand-expo",
+   "file": "/images/generated/stand-expo-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "45% 55%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/stand-expo",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "contact": {
+   "id": "gen-home-hero",
+   "file": "/images/generated/home-hero-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "40% 45%",
+   "w": 1600,
+   "h": 893,
+   "stem": "/images/generated/home-hero",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  },
+  "not-found": {
+   "id": "gen-fabric",
+   "file": "/images/generated/fabric-1600.webp",
+   "alt": "",
+   "ok": true,
+   "pos": "36% 50%",
+   "w": 1600,
+   "h": 873,
+   "stem": "/images/generated/fabric",
+   "vw": [
+    640,
+    1024,
+    1600,
+    2400
+   ],
+   "aw": 1600
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "YB Company",
+  "phone": "0522715720",
+  "email": "yb.company.maroc@gmail.com",
+  "address": "ZI Moulay Rachid Lotissement Khaldia Rue 5 Lot n°2 Rez de chausée Casablanca",
+  "whatsapp": "212XXXXXXXXX",
+  "activities": [
+    "Textile Habillement",
+    "Habillement textile sport casual",
+    "Habillement Mode",
+    "Sublimation Textiles de Maison",
+    "Impression grand format",
+    "Aménagements d’espaces",
+    "Affiche publicitaire et structure",
+    "Production de sac non tissé",
+    "Production de sac en tissu",
+    "Masque de protection",
+    "Fabricant de combinaison et sur-blouse de protection"
+  ],
+  "contacts": [
+    {
+      "name": "Hamza Benhaddou",
+      "phone": "06 23 34 55 58",
+      "email": "h.benhaddou@ybcompany.ma"
+    },
+    {
+      "name": "Youssef Benhaddou",
+      "phone": "06 61 09 74 41",
+      "email": "yb.company.maroc@gmail.com"
+    }
+  ]
+}

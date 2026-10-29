@@ -1,0 +1,281 @@
+[
+ {
+  "id": "fabric-poster",
+  "page": "global",
+  "file": "/images/ambience/fabric-poster.webp",
+  "w": 1920,
+  "h": 1080,
+  "prompt": "Extreme close-up of flowing deep navy silk satin folds filling the frame, a few fine metallic gold threads running diagonally through the fabric and catching a soft warm key light, slow-shutter softness, abstract and calm, dark background",
+  "ok": false
+ },
+ {
+  "id": "og-default",
+  "page": "global",
+  "file": "/og-image.jpg",
+  "w": 1200,
+  "h": 630,
+  "prompt": "Wide editorial still life on a dark navy workbench: a folded garment with a sublimated pattern, a spool of gold thread, tailor's chalk and a measuring tape, warm gold side light, generous negative space on the left third for a logo overlay added later",
+  "ok": true
+ },
+ {
+  "id": "home-manifesto-1",
+  "page": "home",
+  "file": "/images/ambience/home-manifesto-1.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Close-up of a quality controller's hands (no face) inspecting the stitched seam of a finished sports jersey under a warm lamp, gold thread visible on the seam, navy fabric, macro detail",
+  "ok": false
+ },
+ {
+  "id": "home-manifesto-2",
+  "page": "home",
+  "file": "/images/ambience/home-manifesto-2.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Designer's table seen from above: fashion sketches, colour swatches, paper patterns and fabric samples arranged in an editorial composition, a hand holding a pencil (no face), navy and cream fabrics with gold accents",
+  "ok": false
+ },
+ {
+  "id": "home-manifesto-3",
+  "page": "home",
+  "file": "/images/ambience/home-manifesto-3.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "A wall rack of thread spools in navy, cream and gold tones, several gold threads stretched between spools forming a network, shallow depth of field",
+  "ok": false
+ },
+ {
+  "id": "home-activity-textile",
+  "page": "home",
+  "file": "/images/ambience/home-activity-textile.webp",
+  "w": 2400,
+  "h": 1350,
+  "prompt": "Long row of industrial sewing machines in a clean modern garment atelier, operators seen from behind and out of focus (no faces), stacks of cut navy fabric, warm gold practical lights",
+  "ok": false
+ },
+ {
+  "id": "home-activity-affiche",
+  "page": "home",
+  "file": "/images/ambience/home-activity-affiche.webp",
+  "w": 2400,
+  "h": 1350,
+  "prompt": "Large-format digital printer printing a wide vinyl banner in a print workshop, the printed sheet curling out with abstract navy and gold colour fields (no readable text), dramatic side light",
+  "ok": false
+ },
+ {
+  "id": "home-activity-sacherie",
+  "page": "home",
+  "file": "/images/ambience/home-activity-sacherie.webp",
+  "w": 2400,
+  "h": 1350,
+  "prompt": "Neat stacks of blank non-woven and cotton tote bags in navy and natural cream on workshop tables, one bag being folded by hands (no face), warm atmospheric light",
+  "ok": false
+ },
+ {
+  "id": "home-activity-partenaires",
+  "page": "home",
+  "file": "/images/ambience/home-activity-partenaires.webp",
+  "w": 2400,
+  "h": 1350,
+  "prompt": "Two pairs of hands (no faces) exchanging a neatly folded finished garment over a cutting table, fabric rolls behind, warm gold light, sense of trust and partnership",
+  "ok": false
+ },
+ {
+  "id": "philosophie-intro",
+  "page": "philosophie",
+  "file": "/images/ambience/philosophie-intro.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "A single gold thread passing through the eye of a large tailor's needle against deep navy fabric, macro, minimal and symbolic",
+  "ok": false
+ },
+ {
+  "id": "bm-textile",
+  "page": "business-model",
+  "file": "/images/ambience/bm-textile.webp",
+  "w": 1920,
+  "h": 1080,
+  "prompt": "Sublimation heat press opening to reveal a vividly printed sports fabric panel, steam and warm light, atelier background in navy shadows",
+  "ok": false
+ },
+ {
+  "id": "bm-publicitaire",
+  "page": "business-model",
+  "file": "/images/ambience/bm-publicitaire.webp",
+  "w": 1920,
+  "h": 1080,
+  "prompt": "Exhibition hall at night with a custom trade-show stand, beach flags and roll-up banners in navy and gold colour fields (no readable text), cinematic lighting",
+  "ok": false
+ },
+ {
+  "id": "bm-affichage",
+  "page": "business-model",
+  "file": "/images/ambience/bm-affichage.webp",
+  "w": 1920,
+  "h": 1080,
+  "prompt": "Vertical digital signage screen glowing in a dark modern retail space, abstract navy and gold motion graphics on screen (no text), reflections on a polished floor",
+  "ok": false
+ },
+ {
+  "id": "va-intro",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-intro.webp",
+  "w": 1600,
+  "h": 1000,
+  "prompt": "Wide shot of a fashion development studio: mannequins with toile prototypes, pattern-cutting table, rolls of fabric, warm gold light pools in a navy-toned room",
+  "ok": false
+ },
+ {
+  "id": "va-step-1",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-step-1.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Sample garments hanging on a rail with paper tags, collection development in progress, close crop",
+  "ok": false
+ },
+ {
+  "id": "va-step-2",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-step-2.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Paper sewing patterns and technical drawings pinned on a board, a ruler and a pencil, top light",
+  "ok": false
+ },
+ {
+  "id": "va-step-3",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-step-3.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Pattern maker's hands (no face) cutting a paper pattern with large tailor scissors on a cutting table",
+  "ok": false
+ },
+ {
+  "id": "va-step-4",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-step-4.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Production planning board with fabric swatches and a clipboard checklist next to finished folded garments, quality control mood",
+  "ok": false
+ },
+ {
+  "id": "va-step-5",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-step-5.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Rolls of fabric in a sourcing warehouse, navy, cream and gold tones, receding perspective",
+  "ok": false
+ },
+ {
+  "id": "va-atout-1",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-atout-1.webp",
+  "w": 1200,
+  "h": 900,
+  "prompt": "Motion-blurred sewing machine needle stitching navy fabric, sense of speed",
+  "ok": false
+ },
+ {
+  "id": "va-atout-2",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-atout-2.webp",
+  "w": 1200,
+  "h": 900,
+  "prompt": "Embroidery machine stitching a custom gold motif onto navy fabric, macro",
+  "ok": false
+ },
+ {
+  "id": "va-atout-3",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-atout-3.webp",
+  "w": 1200,
+  "h": 900,
+  "prompt": "Contrast between one single handmade garment on a table and large neat stacks of identical folded garments behind it",
+  "ok": false
+ },
+ {
+  "id": "va-atout-4",
+  "page": "valeur-ajoutee",
+  "file": "/images/ambience/va-atout-4.webp",
+  "w": 1200,
+  "h": 900,
+  "prompt": "Fan of very different fabric samples (denim, jersey, satin, mesh) spread on a navy surface, gold light",
+  "ok": false
+ },
+ {
+  "id": "sc-intro",
+  "page": "sport-casual",
+  "file": "/images/ambience/sc-intro.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Freshly sublimated sports jerseys hanging in a row in the atelier, vivid abstract navy and gold patterns, no logos or numbers, dramatic side light",
+  "ok": false
+ },
+ {
+  "id": "mode-stylisme",
+  "page": "mode",
+  "file": "/images/ambience/mode-stylisme.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Stylist's hand (no face) drawing a streetwear silhouette on a sketchbook, fabric swatches clipped on the page",
+  "ok": false
+ },
+ {
+  "id": "mode-modelisme",
+  "page": "mode",
+  "file": "/images/ambience/mode-modelisme.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Pattern pieces of a jacket laid out on a cutting table with chalk lines, tape measure and weights",
+  "ok": false
+ },
+ {
+  "id": "mode-traitement",
+  "page": "mode",
+  "file": "/images/ambience/mode-traitement.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Screen printing and embroidery details: a squeegee pulling ink across a screen next to an embroidered gold patch, macro",
+  "ok": false
+ },
+ {
+  "id": "mode-confection",
+  "page": "mode",
+  "file": "/images/ambience/mode-confection.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Seamstress's hands (no face) guiding fabric through an industrial sewing machine, gold thread on the bobbin",
+  "ok": false
+ },
+ {
+  "id": "mode-produit",
+  "page": "mode",
+  "file": "/images/ambience/mode-produit.webp",
+  "w": 1200,
+  "h": 1500,
+  "prompt": "Finished streetwear jacket on a dark mannequin in a minimal navy studio, single warm spotlight",
+  "ok": false
+ },
+ {
+  "id": "am-facades",
+  "page": "amenagements",
+  "file": "/images/ambience/am-facades.webp",
+  "w": 900,
+  "h": 1600,
+  "prompt": "Modern shop facade at dusk with an illuminated blank signage panel (no readable text), aluminium composite cladding, navy sky, warm gold interior light",
+  "ok": false
+ },
+ {
+  "id": "prot-visiere",
+  "page": "protection",
+  "file": "/images/ambience/prot-visiere.webp",
+  "w": 1200,
+  "h": 1200,
+  "prompt": "Clear plexiglass protective face shield product shot on a neutral cream background, soft studio light, no person",
+  "ok": false
+ }
+]

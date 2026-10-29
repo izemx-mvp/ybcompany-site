@@ -10,33 +10,351 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as ConfectionSportIndexRouteImport } from './routes/confection-sport/index'
+import { Route as ContactIndexRouteImport } from './routes/contact/index'
+import { Route as Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRouteImport } from './routes/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/index'
+import { Route as HttpYbcompanyMaProductionDeSacIndexRouteImport } from './routes/http-ybcompany-ma-production-de-sac/index'
+import { Route as IndustriePublicitaireAffichePublicitaireIndexRouteImport } from './routes/industrie-publicitaire-affiche-publicitaire/index'
+import { Route as MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRouteImport } from './routes/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/index'
+import { Route as NousConnaitreIndexRouteImport } from './routes/nous-connaitre/index'
+import { Route as PartenairesReferencesIndexRouteImport } from './routes/partenaires-references/index'
+import { Route as TextileHabillementIndexRouteImport } from './routes/textile-habillement/index'
+import { Route as HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRouteImport } from './routes/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/index'
+import { Route as HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRouteImport } from './routes/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/index'
+import { Route as IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRouteImport } from './routes/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/index'
+import { Route as IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRouteImport } from './routes/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/index'
+import { Route as IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRouteImport } from './routes/industrie-publicitaire-affiche-publicitaire/impression-grand-format/index'
+import { Route as NousConnaitreBusinessModelIndexRouteImport } from './routes/nous-connaitre/business-model/index'
+import { Route as NousConnaitrePhilosophieIndexRouteImport } from './routes/nous-connaitre/philosophie/index'
+import { Route as PartenairesReferencesIndustriePublicitaireIndexRouteImport } from './routes/partenaires-references/industrie-publicitaire/index'
+import { Route as PartenairesReferencesTextileHabillementModeSportIndexRouteImport } from './routes/partenaires-references/textile-habillement-mode-sport/index'
+import { Route as TextileHabillementHabillementModeIndexRouteImport } from './routes/textile-habillement/habillement-mode/index'
+import { Route as TextileHabillementHabillementTextileSportCasualIndexRouteImport } from './routes/textile-habillement/habillement-textile-sport-casual/index'
+import { Route as TextileHabillementNotreValeurAjouteeIndexRouteImport } from './routes/textile-habillement/notre-valeur-ajoutee/index'
+import { Route as TextileHabillementSublimationTextilesIndexRouteImport } from './routes/textile-habillement/sublimation-textiles/index'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ConfectionSportIndexRoute = ConfectionSportIndexRouteImport.update({
+  id: '/confection-sport/',
+  path: '/confection-sport/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ContactIndexRoute = ContactIndexRouteImport.update({
+  id: '/contact/',
+  path: '/contact/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRoute =
+  Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRouteImport.update(
+    {
+      id: '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/',
+      path: '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/',
+      getParentRoute: () => rootRouteImport,
+    } as any,
+  )
+const HttpYbcompanyMaProductionDeSacIndexRoute =
+  HttpYbcompanyMaProductionDeSacIndexRouteImport.update({
+    id: '/http-ybcompany-ma-production-de-sac/',
+    path: '/http-ybcompany-ma-production-de-sac/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const IndustriePublicitaireAffichePublicitaireIndexRoute =
+  IndustriePublicitaireAffichePublicitaireIndexRouteImport.update({
+    id: '/industrie-publicitaire-affiche-publicitaire/',
+    path: '/industrie-publicitaire-affiche-publicitaire/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRoute =
+  MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRouteImport.update(
+    {
+      id: '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/',
+      path: '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/',
+      getParentRoute: () => rootRouteImport,
+    } as any,
+  )
+const NousConnaitreIndexRoute = NousConnaitreIndexRouteImport.update({
+  id: '/nous-connaitre/',
+  path: '/nous-connaitre/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PartenairesReferencesIndexRoute =
+  PartenairesReferencesIndexRouteImport.update({
+    id: '/partenaires-references/',
+    path: '/partenaires-references/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const TextileHabillementIndexRoute = TextileHabillementIndexRouteImport.update({
+  id: '/textile-habillement/',
+  path: '/textile-habillement/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRoute =
+  HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRouteImport.update({
+    id: '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/',
+    path: '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRoute =
+  HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRouteImport.update({
+    id: '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/',
+    path: '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRoute =
+  IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRouteImport.update(
+    {
+      id: '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/',
+      path: '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/',
+      getParentRoute: () => rootRouteImport,
+    } as any,
+  )
+const IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRoute =
+  IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRouteImport.update(
+    {
+      id: '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/',
+      path: '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/',
+      getParentRoute: () => rootRouteImport,
+    } as any,
+  )
+const IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRoute =
+  IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRouteImport.update(
+    {
+      id: '/industrie-publicitaire-affiche-publicitaire/impression-grand-format/',
+      path: '/industrie-publicitaire-affiche-publicitaire/impression-grand-format/',
+      getParentRoute: () => rootRouteImport,
+    } as any,
+  )
+const NousConnaitreBusinessModelIndexRoute =
+  NousConnaitreBusinessModelIndexRouteImport.update({
+    id: '/nous-connaitre/business-model/',
+    path: '/nous-connaitre/business-model/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const NousConnaitrePhilosophieIndexRoute =
+  NousConnaitrePhilosophieIndexRouteImport.update({
+    id: '/nous-connaitre/philosophie/',
+    path: '/nous-connaitre/philosophie/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const PartenairesReferencesIndustriePublicitaireIndexRoute =
+  PartenairesReferencesIndustriePublicitaireIndexRouteImport.update({
+    id: '/partenaires-references/industrie-publicitaire/',
+    path: '/partenaires-references/industrie-publicitaire/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const PartenairesReferencesTextileHabillementModeSportIndexRoute =
+  PartenairesReferencesTextileHabillementModeSportIndexRouteImport.update({
+    id: '/partenaires-references/textile-habillement-mode-sport/',
+    path: '/partenaires-references/textile-habillement-mode-sport/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const TextileHabillementHabillementModeIndexRoute =
+  TextileHabillementHabillementModeIndexRouteImport.update({
+    id: '/textile-habillement/habillement-mode/',
+    path: '/textile-habillement/habillement-mode/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const TextileHabillementHabillementTextileSportCasualIndexRoute =
+  TextileHabillementHabillementTextileSportCasualIndexRouteImport.update({
+    id: '/textile-habillement/habillement-textile-sport-casual/',
+    path: '/textile-habillement/habillement-textile-sport-casual/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const TextileHabillementNotreValeurAjouteeIndexRoute =
+  TextileHabillementNotreValeurAjouteeIndexRouteImport.update({
+    id: '/textile-habillement/notre-valeur-ajoutee/',
+    path: '/textile-habillement/notre-valeur-ajoutee/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const TextileHabillementSublimationTextilesIndexRoute =
+  TextileHabillementSublimationTextilesIndexRouteImport.update({
+    id: '/textile-habillement/sublimation-textiles/',
+    path: '/textile-habillement/sublimation-textiles/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/confection-sport/': typeof ConfectionSportIndexRoute
+  '/contact/': typeof ContactIndexRoute
+  '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/': typeof Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRoute
+  '/http-ybcompany-ma-production-de-sac/': typeof HttpYbcompanyMaProductionDeSacIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/': typeof IndustriePublicitaireAffichePublicitaireIndexRoute
+  '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/': typeof MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRoute
+  '/nous-connaitre/': typeof NousConnaitreIndexRoute
+  '/partenaires-references/': typeof PartenairesReferencesIndexRoute
+  '/textile-habillement/': typeof TextileHabillementIndexRoute
+  '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/': typeof HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRoute
+  '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/': typeof HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/': typeof IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/': typeof IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/impression-grand-format/': typeof IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRoute
+  '/nous-connaitre/business-model/': typeof NousConnaitreBusinessModelIndexRoute
+  '/nous-connaitre/philosophie/': typeof NousConnaitrePhilosophieIndexRoute
+  '/partenaires-references/industrie-publicitaire/': typeof PartenairesReferencesIndustriePublicitaireIndexRoute
+  '/partenaires-references/textile-habillement-mode-sport/': typeof PartenairesReferencesTextileHabillementModeSportIndexRoute
+  '/textile-habillement/habillement-mode/': typeof TextileHabillementHabillementModeIndexRoute
+  '/textile-habillement/habillement-textile-sport-casual/': typeof TextileHabillementHabillementTextileSportCasualIndexRoute
+  '/textile-habillement/notre-valeur-ajoutee/': typeof TextileHabillementNotreValeurAjouteeIndexRoute
+  '/textile-habillement/sublimation-textiles/': typeof TextileHabillementSublimationTextilesIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/confection-sport': typeof ConfectionSportIndexRoute
+  '/contact': typeof ContactIndexRoute
+  '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique': typeof Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRoute
+  '/http-ybcompany-ma-production-de-sac': typeof HttpYbcompanyMaProductionDeSacIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire': typeof IndustriePublicitaireAffichePublicitaireIndexRoute
+  '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection': typeof MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRoute
+  '/nous-connaitre': typeof NousConnaitreIndexRoute
+  '/partenaires-references': typeof PartenairesReferencesIndexRoute
+  '/textile-habillement': typeof TextileHabillementIndexRoute
+  '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu': typeof HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRoute
+  '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse': typeof HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure': typeof IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces': typeof IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/impression-grand-format': typeof IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRoute
+  '/nous-connaitre/business-model': typeof NousConnaitreBusinessModelIndexRoute
+  '/nous-connaitre/philosophie': typeof NousConnaitrePhilosophieIndexRoute
+  '/partenaires-references/industrie-publicitaire': typeof PartenairesReferencesIndustriePublicitaireIndexRoute
+  '/partenaires-references/textile-habillement-mode-sport': typeof PartenairesReferencesTextileHabillementModeSportIndexRoute
+  '/textile-habillement/habillement-mode': typeof TextileHabillementHabillementModeIndexRoute
+  '/textile-habillement/habillement-textile-sport-casual': typeof TextileHabillementHabillementTextileSportCasualIndexRoute
+  '/textile-habillement/notre-valeur-ajoutee': typeof TextileHabillementNotreValeurAjouteeIndexRoute
+  '/textile-habillement/sublimation-textiles': typeof TextileHabillementSublimationTextilesIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/confection-sport/': typeof ConfectionSportIndexRoute
+  '/contact/': typeof ContactIndexRoute
+  '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/': typeof Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRoute
+  '/http-ybcompany-ma-production-de-sac/': typeof HttpYbcompanyMaProductionDeSacIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/': typeof IndustriePublicitaireAffichePublicitaireIndexRoute
+  '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/': typeof MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRoute
+  '/nous-connaitre/': typeof NousConnaitreIndexRoute
+  '/partenaires-references/': typeof PartenairesReferencesIndexRoute
+  '/textile-habillement/': typeof TextileHabillementIndexRoute
+  '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/': typeof HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRoute
+  '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/': typeof HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/': typeof IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/': typeof IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRoute
+  '/industrie-publicitaire-affiche-publicitaire/impression-grand-format/': typeof IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRoute
+  '/nous-connaitre/business-model/': typeof NousConnaitreBusinessModelIndexRoute
+  '/nous-connaitre/philosophie/': typeof NousConnaitrePhilosophieIndexRoute
+  '/partenaires-references/industrie-publicitaire/': typeof PartenairesReferencesIndustriePublicitaireIndexRoute
+  '/partenaires-references/textile-habillement-mode-sport/': typeof PartenairesReferencesTextileHabillementModeSportIndexRoute
+  '/textile-habillement/habillement-mode/': typeof TextileHabillementHabillementModeIndexRoute
+  '/textile-habillement/habillement-textile-sport-casual/': typeof TextileHabillementHabillementTextileSportCasualIndexRoute
+  '/textile-habillement/notre-valeur-ajoutee/': typeof TextileHabillementNotreValeurAjouteeIndexRoute
+  '/textile-habillement/sublimation-textiles/': typeof TextileHabillementSublimationTextilesIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    | '/'
+    | '/confection-sport/'
+    | '/contact/'
+    | '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/'
+    | '/http-ybcompany-ma-production-de-sac/'
+    | '/industrie-publicitaire-affiche-publicitaire/'
+    | '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/'
+    | '/nous-connaitre/'
+    | '/partenaires-references/'
+    | '/textile-habillement/'
+    | '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/'
+    | '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/'
+    | '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/'
+    | '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/'
+    | '/industrie-publicitaire-affiche-publicitaire/impression-grand-format/'
+    | '/nous-connaitre/business-model/'
+    | '/nous-connaitre/philosophie/'
+    | '/partenaires-references/industrie-publicitaire/'
+    | '/partenaires-references/textile-habillement-mode-sport/'
+    | '/textile-habillement/habillement-mode/'
+    | '/textile-habillement/habillement-textile-sport-casual/'
+    | '/textile-habillement/notre-valeur-ajoutee/'
+    | '/textile-habillement/sublimation-textiles/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to:
+    | '/'
+    | '/confection-sport'
+    | '/contact'
+    | '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique'
+    | '/http-ybcompany-ma-production-de-sac'
+    | '/industrie-publicitaire-affiche-publicitaire'
+    | '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection'
+    | '/nous-connaitre'
+    | '/partenaires-references'
+    | '/textile-habillement'
+    | '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu'
+    | '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse'
+    | '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure'
+    | '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces'
+    | '/industrie-publicitaire-affiche-publicitaire/impression-grand-format'
+    | '/nous-connaitre/business-model'
+    | '/nous-connaitre/philosophie'
+    | '/partenaires-references/industrie-publicitaire'
+    | '/partenaires-references/textile-habillement-mode-sport'
+    | '/textile-habillement/habillement-mode'
+    | '/textile-habillement/habillement-textile-sport-casual'
+    | '/textile-habillement/notre-valeur-ajoutee'
+    | '/textile-habillement/sublimation-textiles'
+  id:
+    | '__root__'
+    | '/'
+    | '/confection-sport/'
+    | '/contact/'
+    | '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/'
+    | '/http-ybcompany-ma-production-de-sac/'
+    | '/industrie-publicitaire-affiche-publicitaire/'
+    | '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/'
+    | '/nous-connaitre/'
+    | '/partenaires-references/'
+    | '/textile-habillement/'
+    | '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/'
+    | '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/'
+    | '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/'
+    | '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/'
+    | '/industrie-publicitaire-affiche-publicitaire/impression-grand-format/'
+    | '/nous-connaitre/business-model/'
+    | '/nous-connaitre/philosophie/'
+    | '/partenaires-references/industrie-publicitaire/'
+    | '/partenaires-references/textile-habillement-mode-sport/'
+    | '/textile-habillement/habillement-mode/'
+    | '/textile-habillement/habillement-textile-sport-casual/'
+    | '/textile-habillement/notre-valeur-ajoutee/'
+    | '/textile-habillement/sublimation-textiles/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  ConfectionSportIndexRoute: typeof ConfectionSportIndexRoute
+  ContactIndexRoute: typeof ContactIndexRoute
+  Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRoute: typeof Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRoute
+  HttpYbcompanyMaProductionDeSacIndexRoute: typeof HttpYbcompanyMaProductionDeSacIndexRoute
+  IndustriePublicitaireAffichePublicitaireIndexRoute: typeof IndustriePublicitaireAffichePublicitaireIndexRoute
+  MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRoute: typeof MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRoute
+  NousConnaitreIndexRoute: typeof NousConnaitreIndexRoute
+  PartenairesReferencesIndexRoute: typeof PartenairesReferencesIndexRoute
+  TextileHabillementIndexRoute: typeof TextileHabillementIndexRoute
+  HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRoute: typeof HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRoute
+  HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRoute: typeof HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRoute
+  IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRoute: typeof IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRoute
+  IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRoute: typeof IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRoute
+  IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRoute: typeof IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRoute
+  NousConnaitreBusinessModelIndexRoute: typeof NousConnaitreBusinessModelIndexRoute
+  NousConnaitrePhilosophieIndexRoute: typeof NousConnaitrePhilosophieIndexRoute
+  PartenairesReferencesIndustriePublicitaireIndexRoute: typeof PartenairesReferencesIndustriePublicitaireIndexRoute
+  PartenairesReferencesTextileHabillementModeSportIndexRoute: typeof PartenairesReferencesTextileHabillementModeSportIndexRoute
+  TextileHabillementHabillementModeIndexRoute: typeof TextileHabillementHabillementModeIndexRoute
+  TextileHabillementHabillementTextileSportCasualIndexRoute: typeof TextileHabillementHabillementTextileSportCasualIndexRoute
+  TextileHabillementNotreValeurAjouteeIndexRoute: typeof TextileHabillementNotreValeurAjouteeIndexRoute
+  TextileHabillementSublimationTextilesIndexRoute: typeof TextileHabillementSublimationTextilesIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +366,202 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/confection-sport/': {
+      id: '/confection-sport/'
+      path: '/confection-sport'
+      fullPath: '/confection-sport/'
+      preLoaderRoute: typeof ConfectionSportIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/contact/': {
+      id: '/contact/'
+      path: '/contact'
+      fullPath: '/contact/'
+      preLoaderRoute: typeof ContactIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/': {
+      id: '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/'
+      path: '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique'
+      fullPath: '/covid-19-masque-de-protection-reutilisable-bavette-de-protection-a-usage-unique/'
+      preLoaderRoute: typeof Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/http-ybcompany-ma-production-de-sac/': {
+      id: '/http-ybcompany-ma-production-de-sac/'
+      path: '/http-ybcompany-ma-production-de-sac'
+      fullPath: '/http-ybcompany-ma-production-de-sac/'
+      preLoaderRoute: typeof HttpYbcompanyMaProductionDeSacIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/industrie-publicitaire-affiche-publicitaire/': {
+      id: '/industrie-publicitaire-affiche-publicitaire/'
+      path: '/industrie-publicitaire-affiche-publicitaire'
+      fullPath: '/industrie-publicitaire-affiche-publicitaire/'
+      preLoaderRoute: typeof IndustriePublicitaireAffichePublicitaireIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/': {
+      id: '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/'
+      path: '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection'
+      fullPath: '/masque-de-protection-fabricant-de-combinaison-et-sur-blouse-de-protection/'
+      preLoaderRoute: typeof MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/nous-connaitre/': {
+      id: '/nous-connaitre/'
+      path: '/nous-connaitre'
+      fullPath: '/nous-connaitre/'
+      preLoaderRoute: typeof NousConnaitreIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/partenaires-references/': {
+      id: '/partenaires-references/'
+      path: '/partenaires-references'
+      fullPath: '/partenaires-references/'
+      preLoaderRoute: typeof PartenairesReferencesIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/textile-habillement/': {
+      id: '/textile-habillement/'
+      path: '/textile-habillement'
+      fullPath: '/textile-habillement/'
+      preLoaderRoute: typeof TextileHabillementIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/': {
+      id: '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/'
+      path: '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu'
+      fullPath: '/http-ybcompany-ma-production-de-sac/production-de-sac-en-tissu/'
+      preLoaderRoute: typeof HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/': {
+      id: '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/'
+      path: '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse'
+      fullPath: '/http-ybcompany-ma-production-de-sac/production-de-sac-non-tisse/'
+      preLoaderRoute: typeof HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/': {
+      id: '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/'
+      path: '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure'
+      fullPath: '/industrie-publicitaire-affiche-publicitaire/affiche-publicitaire-structure/'
+      preLoaderRoute: typeof IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/': {
+      id: '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/'
+      path: '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces'
+      fullPath: '/industrie-publicitaire-affiche-publicitaire/amenagements-despaces/'
+      preLoaderRoute: typeof IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/industrie-publicitaire-affiche-publicitaire/impression-grand-format/': {
+      id: '/industrie-publicitaire-affiche-publicitaire/impression-grand-format/'
+      path: '/industrie-publicitaire-affiche-publicitaire/impression-grand-format'
+      fullPath: '/industrie-publicitaire-affiche-publicitaire/impression-grand-format/'
+      preLoaderRoute: typeof IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/nous-connaitre/business-model/': {
+      id: '/nous-connaitre/business-model/'
+      path: '/nous-connaitre/business-model'
+      fullPath: '/nous-connaitre/business-model/'
+      preLoaderRoute: typeof NousConnaitreBusinessModelIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/nous-connaitre/philosophie/': {
+      id: '/nous-connaitre/philosophie/'
+      path: '/nous-connaitre/philosophie'
+      fullPath: '/nous-connaitre/philosophie/'
+      preLoaderRoute: typeof NousConnaitrePhilosophieIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/partenaires-references/industrie-publicitaire/': {
+      id: '/partenaires-references/industrie-publicitaire/'
+      path: '/partenaires-references/industrie-publicitaire'
+      fullPath: '/partenaires-references/industrie-publicitaire/'
+      preLoaderRoute: typeof PartenairesReferencesIndustriePublicitaireIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/partenaires-references/textile-habillement-mode-sport/': {
+      id: '/partenaires-references/textile-habillement-mode-sport/'
+      path: '/partenaires-references/textile-habillement-mode-sport'
+      fullPath: '/partenaires-references/textile-habillement-mode-sport/'
+      preLoaderRoute: typeof PartenairesReferencesTextileHabillementModeSportIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/textile-habillement/habillement-mode/': {
+      id: '/textile-habillement/habillement-mode/'
+      path: '/textile-habillement/habillement-mode'
+      fullPath: '/textile-habillement/habillement-mode/'
+      preLoaderRoute: typeof TextileHabillementHabillementModeIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/textile-habillement/habillement-textile-sport-casual/': {
+      id: '/textile-habillement/habillement-textile-sport-casual/'
+      path: '/textile-habillement/habillement-textile-sport-casual'
+      fullPath: '/textile-habillement/habillement-textile-sport-casual/'
+      preLoaderRoute: typeof TextileHabillementHabillementTextileSportCasualIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/textile-habillement/notre-valeur-ajoutee/': {
+      id: '/textile-habillement/notre-valeur-ajoutee/'
+      path: '/textile-habillement/notre-valeur-ajoutee'
+      fullPath: '/textile-habillement/notre-valeur-ajoutee/'
+      preLoaderRoute: typeof TextileHabillementNotreValeurAjouteeIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/textile-habillement/sublimation-textiles/': {
+      id: '/textile-habillement/sublimation-textiles/'
+      path: '/textile-habillement/sublimation-textiles'
+      fullPath: '/textile-habillement/sublimation-textiles/'
+      preLoaderRoute: typeof TextileHabillementSublimationTextilesIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  ConfectionSportIndexRoute: ConfectionSportIndexRoute,
+  ContactIndexRoute: ContactIndexRoute,
+  Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRoute:
+    Covid19MasqueDeProtectionReutilisableBavetteDeProtectionAUsageUniqueIndexRoute,
+  HttpYbcompanyMaProductionDeSacIndexRoute:
+    HttpYbcompanyMaProductionDeSacIndexRoute,
+  IndustriePublicitaireAffichePublicitaireIndexRoute:
+    IndustriePublicitaireAffichePublicitaireIndexRoute,
+  MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRoute:
+    MasqueDeProtectionFabricantDeCombinaisonEtSurBlouseDeProtectionIndexRoute,
+  NousConnaitreIndexRoute: NousConnaitreIndexRoute,
+  PartenairesReferencesIndexRoute: PartenairesReferencesIndexRoute,
+  TextileHabillementIndexRoute: TextileHabillementIndexRoute,
+  HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRoute:
+    HttpYbcompanyMaProductionDeSacProductionDeSacEnTissuIndexRoute,
+  HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRoute:
+    HttpYbcompanyMaProductionDeSacProductionDeSacNonTisseIndexRoute,
+  IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRoute:
+    IndustriePublicitaireAffichePublicitaireAffichePublicitaireStructureIndexRoute,
+  IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRoute:
+    IndustriePublicitaireAffichePublicitaireAmenagementsDespacesIndexRoute,
+  IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRoute:
+    IndustriePublicitaireAffichePublicitaireImpressionGrandFormatIndexRoute,
+  NousConnaitreBusinessModelIndexRoute: NousConnaitreBusinessModelIndexRoute,
+  NousConnaitrePhilosophieIndexRoute: NousConnaitrePhilosophieIndexRoute,
+  PartenairesReferencesIndustriePublicitaireIndexRoute:
+    PartenairesReferencesIndustriePublicitaireIndexRoute,
+  PartenairesReferencesTextileHabillementModeSportIndexRoute:
+    PartenairesReferencesTextileHabillementModeSportIndexRoute,
+  TextileHabillementHabillementModeIndexRoute:
+    TextileHabillementHabillementModeIndexRoute,
+  TextileHabillementHabillementTextileSportCasualIndexRoute:
+    TextileHabillementHabillementTextileSportCasualIndexRoute,
+  TextileHabillementNotreValeurAjouteeIndexRoute:
+    TextileHabillementNotreValeurAjouteeIndexRoute,
+  TextileHabillementSublimationTextilesIndexRoute:
+    TextileHabillementSublimationTextilesIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

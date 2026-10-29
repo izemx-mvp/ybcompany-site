@@ -9,6 +9,8 @@ export const getRouter = () => {
     routeTree,
     context: { queryClient },
     scrollRestoration: true,
+    // Every live URL ends with "/"; non-slash URLs redirect to the slash version.
+    trailingSlash: "always",
     defaultPreloadStaleTime: 0,
   });
 
